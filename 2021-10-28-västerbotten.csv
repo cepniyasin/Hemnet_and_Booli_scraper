@@ -1,0 +1,358 @@
+2021-10-28
+Count;Website Link;Subject;Location;Price;Area;Number of rooms;Property Type;Status
+1;https://www.hemnet.se/bostad/lagenhet-3rum-sandakern-umea-kommun-frida-aslunds-grand-1b-17957333;Frida Åslunds Gränd 1B;Sandåkern, Umeå kommun;3 100 000 kr;80,5 m²;3 rum;          LägenhetLägenhet;For Sale
+2;https://www.hemnet.se/bostad/lagenhet-4rum-haga-umea-kommun-stenmarksvagen-9a-18024076;Stenmarksvägen 9A;Haga, Umeå kommun;3 095 000 kr;89 m²;4 rum;          LägenhetLägenhet;For Sale
+3;https://www.hemnet.se/bostad/villa-4rum-villaryd-centrum-lycksele-kommun-arvid-franklins-vag-6-18024215;Arvid Franklins väg 6;Villaryd / Centrum, Lycksele kommun;1 700 000 kr;116 + 119 m²;4 rum;          VillaVilla;For Sale
+4;https://www.hemnet.se/bostad/villa-6rum-vannas-vannas-kommun-kvartsvagen-7-18023955;Kvartsvägen 7;Vännäs, Vännäs kommun;2 890 000 kr;150 + 52 m²;6 rum;          VillaVilla;For Sale
+5;https://www.hemnet.se/bostad/fritidsboende-5rum-hemavan-tarnaby-storumans-kommun-umfors-406-18003758;Umfors 406;Hemavan/Tärnaby, Storumans kommun;2 495 000 kr;68 + 13 m²;5 rum;          FritidshusFritidshus;For Sale
+6;https://www.hemnet.se/bostad/villa-4rum-morobacke-skelleftea-kommun-allvadersgrand-71-18020996;Allvädersgränd 71;Moröbacke, Skellefteå kommun;3 195 000 kr;136 m²;4 rum;          VillaVilla;For Sale
+7;https://www.hemnet.se/nybyggnadsprojekt/tillsammans-pa-tomtebo-gard-17952516;Tillsammans på Tomtebo gård;Umeå kommun;fr. 2 000 000 kr;52–101 m²;2–5 rum;          LägenhetLägenhet;For Sale
+8;https://www.hemnet.se/bostad/villa-6rum-yttersjo-umea-kommun-kronotorpsvagen-11-18020355;Kronotorpsvägen 11;Yttersjö, Umeå kommun;3 995 000 kr;166 + 35 m²;6 rum;          VillaVilla;For Sale
+9;https://www.hemnet.se/bostad/villa-6rum-skelleftea-skelleftea-kommun-gardmyrgatan-15-18019739;Gårdmyrgatan 15;Skellefteå, Skellefteå kommun;995 000 kr;156 + 78 m²;6 rum;          VillaVilla;For Sale
+10;https://www.hemnet.se/bostad/villa-8rum-umedalen-umea-kommun-kavaljersvagen-20-18018055;Kavaljersvägen 20;Umedalen, Umeå kommun;6 895 000 kr;201 + 60 m²;8 rum;          VillaVilla;For Sale
+11;https://www.hemnet.se/bostad/lagenhet-3rum-mariehem-umea-kommun-skarvstensgatan-50-18018196;Skärvstensgatan 50;Mariehem, Umeå kommun;2 575 000 kr;66,5 m²;3 rum;          LägenhetLägenhet;For Sale
+12;https://www.hemnet.se/bostad/lagenhet-3rum-sodergard-skelleftea-kommun-norrstigen-3-18014776;Norrstigen 3;SÖDERGÅRD, Skellefteå kommun;2 500 000 kr;85,5 m²;3 rum;          LägenhetLägenhet;For Sale
+13;https://www.hemnet.se/bostad/lagenhet-3rum-mariehem-umea-kommun-mariehemsvagen-29d-18018536;Mariehemsvägen 29D;Mariehem, Umeå kommun;1 595 000 kr;81 m²;3 rum;          LägenhetLägenhet;For Sale
+14;https://www.hemnet.se/bostad/lagenhet-3rum-boliden-skelleftea-kommun-ringen-69a-18019081;Ringen 69A;Boliden, Skellefteå kommun;190 000 kr;81 m²;3 rum;          LägenhetLägenhet;For Sale
+15;https://www.hemnet.se/bostad/lagenhet-2,5rum-mariehem-umea-kommun-mariehemsvagen-164-18019399;Mariehemsvägen 164;Mariehem, Umeå kommun;1 795 000 kr;60 m²;2,5 rum;          LägenhetLägenhet;For Sale
+16;https://www.hemnet.se/bostad/lagenhet-4rum-tomtebo-umea-kommun-skogsfruvagen-11f-18017797;Skogsfruvägen 11F;Tomtebo, Umeå kommun;1 995 000 kr;74,2 m²;4 rum;          LägenhetLägenhet;For Sale
+17;https://www.hemnet.se/bostad/villa-3rum-bygdea-robertsfors-kommun-back-41-18017316;Bäck 41;Bygdeå, Robertsfors kommun;250 000 kr;88 + 24 m²;3 rum;          VillaVilla;For Sale
+18;https://www.hemnet.se/bostad/lagenhet-2rum-teg-umea-kommun-akervagen-7-18016795;Åkervägen 7;Teg, Umeå kommun;1 745 000 kr;46 m²;2 rum;          LägenhetLägenhet;For Sale
+19;https://www.hemnet.se/bostad/lagenhet-1rum-alidhem-umea-kommun-biologigrand-22-18015859;Biologigränd 22;Ålidhem, Umeå kommun;1 595 000 kr;37 m²;1 rum;          LägenhetLägenhet;For Sale
+20;https://www.hemnet.se/bostad/lagenhet-3rum-skelleftea-kommun-myntgatan-49-18015735;Myntgatan 49;Skellefteå, Skellefteå kommun;1 695 000 kr;81 m²;3 rum;          LägenhetLägenhet;For Sale
+21;https://www.hemnet.se/bostad/lagenhet-2rum-ost-pa-stan-umea-kommun-ostra-strandgatan-17d-18014517;Östra Strandgatan 17D;Öst På Stan, Umeå kommun;1 525 000 kr;40 m²;2 rum;          LägenhetLägenhet;For Sale
+22;https://www.hemnet.se/bostad/lagenhet-1rum-mariehojd-umea-kommun-skarvstensgatan-28-18014615;Skärvstensgatan 28;Mariehöjd, Umeå kommun;1 895 000 kr;48 m²;1 rum;          LägenhetLägenhet;For Sale
+23;https://www.hemnet.se/bostad/lagenhet-3rum-boleang-umea-kommun-bjornbarsvagen-39c-18013555;Björnbärsvägen 39C;Böleäng, Umeå kommun;2 095 000 kr;85 m²;3 rum;          LägenhetLägenhet;For Sale
+24;https://www.hemnet.se/bostad/lagenhet-2rum-obacka-strand-umea-kommun-hoppets-grand-32-18011635;Hoppets gränd 32;Öbacka Strand, Umeå kommun;3 495 000 kr;62 m²;2 rum;          LägenhetLägenhet;For Sale
+25;https://www.hemnet.se/bostad/lagenhet-2rum-vast-pa-stan-umea-kommun-kvarnvagen-11-18013215;Kvarnvägen 11;Väst på stan, Umeå kommun;1 995 000 kr;57 m²;2 rum;          LägenhetLägenhet;For Sale
+26;https://www.hemnet.se/bostad/lagenhet-3rum-alidhem-umea-kommun-kemigrand-30-18011357;Kemigränd 30;Ålidhem, Umeå kommun;1 795 000 kr;82,5 m²;3 rum;          LägenhetLägenhet;For Sale
+27;https://www.hemnet.se/bostad/villa-6rum-nordmaling-nordmalings-kommun-blomstervagen-22-18013137;Blomstervägen 22;Nordmaling, Nordmalings kommun;1 795 000 kr;119 + 56 m²;6 rum;          VillaVilla;For Sale
+28;https://www.hemnet.se/bostad/lagenhet-3rum-morohojden-skelleftea-kommun-myntgatan-31-18012878;Myntgatan 31;Moröhöjden, Skellefteå kommun;1 795 000 kr;81 m²;3 rum;          LägenhetLägenhet;For Sale
+29;https://www.hemnet.se/bostad/lagenhet-1rum-berghem-umea-kommun-axtorpsvagen-29a-18011655;Axtorpsvägen 29A;Berghem, Umeå kommun;1 645 000 kr;44 m²;1 rum;          LägenhetLägenhet;For Sale
+30;https://www.hemnet.se/bostad/lagenhet-3rum-vannas-vannas-kommun-ostra-jarnvagsgatan-30-c-18011575;Östra Järnvägsgatan 30 C;Vännäs, Vännäs kommun;645 000 kr;82 m²;3 rum;          LägenhetLägenhet;For Sale
+31;https://www.hemnet.se/bostad/lagenhet-3rum-vast-pa-stan-umea-kommun-kvarnvagen-3d-18012035;Kvarnvägen 3D;Väst På Stan, Umeå kommun;5 495 000 kr;81 m²;3 rum;          LägenhetLägenhet;For Sale
+32;https://www.hemnet.se/bostad/lagenhet-3rum-vasterhiske-umea-kommun-kronoskogsvagen-55-18011915;Kronoskogsvägen 55;Västerhiske, Umeå kommun;1 895 000 kr;77 m²;3 rum;          LägenhetLägenhet;For Sale
+33;https://www.hemnet.se/bostad/lagenhet-3rum-umea-centrum-umea-kommun-radhusesplanaden-17c-18011375;Rådhusesplanaden 17C;Umeå Centrum, Umeå kommun;2 995 000 kr;76 m²;3 rum;          LägenhetLägenhet;For Sale
+34;https://www.hemnet.se/bostad/lagenhet-3rum-morohojden-skelleftea-kommun-myntgatan-5t-18011035;Myntgatan 5T;Moröhöjden, Skellefteå kommun;1 950 000 kr;77,5 m²;3 rum;          LägenhetLägenhet;For Sale
+35;https://www.hemnet.se/bostad/lagenhet-2rum-mariehojd-umea-kommun-skarvstensgatan-2-18006818;Skärvstensgatan 2;Mariehöjd, Umeå kommun;1 895 000 kr;48,5 m²;2 rum;          LägenhetLägenhet;For Sale
+36;https://www.hemnet.se/bostad/villa-4rum-holmsund-umea-kommun-ringvagen-14-18008556;Ringvägen 14;Holmsund, Umeå kommun;2 650 000 kr;90 + 90 m²;4 rum;          VillaVilla;For Sale
+37;https://www.hemnet.se/bostad/lagenhet-2rum-morohojden-skelleftea-kommun-myntgatan-55-18008215;Myntgatan 55;MORÖHÖJDEN, Skellefteå kommun;1 100 000 kr;64 m²;2 rum;          LägenhetLägenhet;For Sale
+38;https://www.hemnet.se/bostad/villa-5rum-husbondliden-lycksele-kommun-husbondliden-32-18008282;Husbondliden 32;Husbondliden, Lycksele kommun;725 000 kr;208 + 19 m²;5 rum;          VillaVilla;For Sale
+39;https://www.hemnet.se/bostad/radhus-5rum-rodang-umea-kommun-taffelstraket-51-18009179;Taffelstråket 51;Rödäng, Umeå kommun;3 795 000 kr;112 + 15 m²;5 rum;          RadhusRadhus;For Sale
+40;https://www.hemnet.se/bostad/lagenhet-4rum-grubbe-umea-kommun-kyrkhamnsvagen-15a-18009339;Kyrkhamnsvägen 15A;Grubbe, Umeå kommun;3 195 000 kr;84 m²;4 rum;          LägenhetLägenhet;For Sale
+41;https://www.hemnet.se/bostad/lagenhet-5rum-vast-pa-stan-umea-kommun-storgatan-15b-18009357;Storgatan 15B;Väst på stan, Umeå kommun;2 795 000 kr;122 m²;5 rum;          LägenhetLägenhet;For Sale
+42;https://www.hemnet.se/bostad/lagenhet-1rum-norrbacka-skelleftea-kommun-kagevagen-34d-17939656;Kågevägen 34D;Norrbacka, Skellefteå kommun;795 000 kr;30 m²;1 rum;          LägenhetLägenhet;For Sale
+43;https://www.hemnet.se/bostad/lagenhet-2rum-ersboda-umea-kommun-stavgrand-27-18008317;Stävgränd 27;Ersboda, Umeå kommun;1 195 000 kr;67 m²;2 rum;          LägenhetLägenhet;For Sale
+44;https://www.hemnet.se/bostad/villa-4rum-habbersliden-skelleftea-kommun-habbersliden-4-18007435;Häbbersliden 4;Häbbersliden, Skellefteå kommun;600 000 kr;104 + 18 m²;4 rum;          VillaVilla;For Sale
+45;https://www.hemnet.se/bostad/villa-5rum-frostkage-kage-skelleftea-kommun-frostkage-575-18007415;Frostkåge 575;Frostkåge/ Kåge, Skellefteå kommun;2 750 000 kr;125 m²;5 rum;          VillaVilla;For Sale
+46;https://www.hemnet.se/bostad/lagenhet-2rum-medle-skelleftea-kommun-skomakarvagen-15-18004293;Skomakarvägen 15;Medle, Skellefteå kommun;1 070 000 kr;70 m²;2 rum;          LägenhetLägenhet;For Sale
+47;https://www.hemnet.se/bostad/lagenhet-1,5rum-haga-umea-kommun-ostra-kyrkogatan-64-18006156;Östra Kyrkogatan 64;Haga, Umeå kommun;1 995 000 kr;35 m²;1,5 rum;          LägenhetLägenhet;For Sale
+48;https://www.hemnet.se/bostad/lagenhet-2rum-vannas-vannas-kommun-vintergatan-12b-18006295;Vintergatan 12B;Vännäs, Vännäs kommun;495 000 kr;47 m²;2 rum;          LägenhetLägenhet;For Sale
+49;https://www.hemnet.se/bostad/lagenhet-3rum-alidhem-umea-kommun-biologigrand-51-18005498;Biologigränd 51;Ålidhem, Umeå kommun;1 850 000 kr;78 m²;3 rum;          LägenhetLägenhet;For Sale
+50;https://www.hemnet.se/bostad/lagenhet-4rum-tomtebo-umea-kommun-skogsfruvagen-7c-18005416;Skogsfruvägen 7C;Tomtebo, Umeå kommun;1 995 000 kr;73,9 m²;4 rum;          LägenhetLägenhet;For Sale
+51;https://www.hemnet.se/bostad/lagenhet-2rum-centralt-umea-kommun-hedlundavagen-3c-18004487;Hedlundavägen 3C;Centralt, Umeå kommun;2 195 000 kr;63 m²;2 rum;          LägenhetLägenhet;For Sale
+52;https://www.hemnet.se/bostad/fritidsboende-3rum-saxnas-vilhelmina-kommun-middagskullen-42-18004526;Middagskullen 42;Saxnäs, Vilhelmina kommun;3 600 000 kr;75 + 20 m²;3 rum;          FritidshusFritidshus;For Sale
+53;https://www.hemnet.se/bostad/fritidsboende-3rum-kittelfjall-vilhelmina-kommun-borkan-761-18004937;Borkan 761;Kittelfjäll, Vilhelmina kommun;1 295 000 kr;66 + 12 m²;3 rum;          FritidshusFritidshus;For Sale
+54;https://www.hemnet.se/bostad/lagenhet-4rum-teg-umea-kommun-metargrand-7-18004554;Metargränd 7;Teg, Umeå kommun;3 245 000 kr;77,3 m²;4 rum;          LägenhetLägenhet;For Sale
+55;https://www.hemnet.se/bostad/lagenhet-2rum-obacka-strand-umea-kommun-hoppets-grand-12-18004624;Hoppets Gränd 12;Öbacka strand, Umeå kommun;2 995 000 kr;68 m²;2 rum;          LägenhetLägenhet;For Sale
+56;https://www.hemnet.se/bostad/lagenhet-3rum-umea-umea-kommun-hjaltevagen-12-18003311;Hjältevägen 12;Umeå, Umeå kommun;1 995 000 kr;74,2 m²;3 rum;          LägenhetLägenhet;For Sale
+57;https://www.hemnet.se/bostad/villa-5rum-moron-skelleftea-kommun-hedgatan-18-18003821;Hedgatan 18;Morön, Skellefteå kommun;4 695 000 kr;144 + 85 m²;5 rum;          VillaVilla;For Sale
+58;https://www.hemnet.se/bostad/lagenhet-2rum-skelleftehamn-skelleftea-kommun-kaptensgatan-23c-17920824;Kaptensgatan 23c;Skelleftehamn, Skellefteå kommun;800 000 kr;60 m²;2 rum;          LägenhetLägenhet;For Sale
+59;https://www.hemnet.se/bostad/villa-3rum-holmsjon-umea-kommun-holmsjon-418-18002455;Holmsjön 418;Holmsjön, Umeå kommun;3 295 000 kr;80 + 10 m²;3 rum;          VillaVilla;For Sale
+60;https://www.hemnet.se/bostad/lagenhet-3rum-skelleftehamn-skelleftea-kommun-sjomansgatan-12a-18002856;Sjömansgatan 12A;Skelleftehamn, Skellefteå kommun;775 000 kr;78,6 m²;3 rum;          LägenhetLägenhet;For Sale
+61;https://www.hemnet.se/bostad/lagenhet-3rum-tomtebo-nydalaviken-umea-kommun-sagovagen-9-18003142;Sagovägen 9;Tomtebo/Nydalaviken, Umeå kommun;2 395 000 kr;76,5 m²;3 rum;          LägenhetLägenhet;For Sale
+62;https://www.hemnet.se/bostad/lagenhet-2rum-stromsor-skelleftea-kommun-stromsorgatan-12a-18003348;Strömsörgatan 12A;Strömsör, Skellefteå kommun;1 895 000 kr;52,5 m²;2 rum;          LägenhetLägenhet;For Sale
+63;https://www.hemnet.se/bostad/lagenhet-2rum-anderstorp-skelleftea-kommun-bladgatan-256-18003633;Bladgatan 256;Anderstorp, Skellefteå kommun;1 395 000 kr;70 m²;2 rum;          LägenhetLägenhet;For Sale
+64;https://www.hemnet.se/bostad/lagenhet-3rum-anderstorp-skelleftea-kommun-tradgrand-5-18003667;Trädgränd 5;Anderstorp, Skellefteå kommun;1 250 000 kr;77,5 m²;3 rum;          LägenhetLägenhet;For Sale
+65;https://www.hemnet.se/bostad/lagenhet-2rum-teg-umea-kommun-domarevagen-8f-18003962;Domarevägen 8F;Teg, Umeå kommun;1 695 000 kr;67 m²;2 rum;          LägenhetLägenhet;For Sale
+66;https://www.hemnet.se/bostad/lagenhet-3rum-getberget-moron-skelleftea-kommun-getbergsvagen-9-18004039;Getbergsvägen 9;Getberget/Morön, Skellefteå kommun;1 495 000 kr;76 m²;3 rum;          LägenhetLägenhet;For Sale
+67;https://www.hemnet.se/bostad/fritidsboende-4rum-storuman-storumans-kommun-elisabets-vag-6d-18004180;Elisabets Väg 6D;Storuman, Storumans kommun;2 495 000 kr;59 m²;4 rum;          FritidshusFritidshus;For Sale
+68;https://www.hemnet.se/bostad/fritidsboende-4rum-hemavan-storumans-kommun-hostvagen-21-18004163;Höstvägen 21;Hemavan, Storumans kommun;2 495 000 kr;76 + 4 m²;4 rum;          FritidshusFritidshus;For Sale
+69;https://www.hemnet.se/bostad/villa-5rum-bygdea-robertsfors-kommun-sundmarksvagen-27-18004199;Sundmarksvägen 27;Bygdeå, Robertsfors kommun;1 695 000 kr;115 + 65 m²;5 rum;          VillaVilla;For Sale
+70;https://www.hemnet.se/bostad/lagenhet-3rum-sofiehem-umea-kommun-norra-gimonasvagen-3-18003596;Norra Gimonäsvägen 3;Sofiehem, Umeå kommun;2 795 000 kr;103 m²;3 rum;          LägenhetLägenhet;For Sale
+71;https://www.hemnet.se/bostad/villa-5rum-holmsund-umea-kommun-klaravagen-32-18003768;Klaravägen 32;Holmsund, Umeå kommun;4 095 000 kr;135 + 36 m²;5 rum;          VillaVilla;For Sale
+72;https://www.hemnet.se/bostad/villa-188m2-mobacken-skelleftea-kommun-idrottsvagen-36-18003862;Idrottsvägen 36;Mobacken, Skellefteå kommun;3 695 000 kr;188 + 175 m²;None;          VillaVilla;For Sale
+73;https://www.hemnet.se/bostad/lagenhet-2,5rum-haga-umea-kommun-gustav-garvares-gata-1-18003488;Gustav Garvares Gata 1;Haga, Umeå kommun;1 950 000 kr;83 m²;2,5 rum;          LägenhetLägenhet;For Sale
+74;https://www.hemnet.se/bostad/lagenhet-2rum-ost-pa-stan-umea-kommun-storgatan-96-18003039;Storgatan 96;Öst På Stan, Umeå kommun;2 395 000 kr;47 + 11 m²;2 rum;          LägenhetLägenhet;For Sale
+75;https://www.hemnet.se/bostad/villa-5rum-robertsfors-robertsfors-kommun-martensgatan-7-18001719;Mårtensgatan 7;Robertsfors, Robertsfors kommun;995 000 kr;98 + 58 m²;5 rum;          VillaVilla;For Sale
+76;https://www.hemnet.se/bostad/lagenhet-3rum-vast-pa-stan-umea-kommun-ostra-prinsgatan-34b-18004118;Östra Prinsgatan 34B;Väst på stan, Umeå kommun;2 195 000 kr;76 m²;3 rum;          LägenhetLägenhet;For Sale
+77;https://www.hemnet.se/bostad/radhus-5rum-teg-umea-kommun-bokvagen-16-18003692;Bokvägen 16;Teg, Umeå kommun;4 595 000 kr;116 + 100 m²;5 rum;          RadhusRadhus;For Sale
+78;https://www.hemnet.se/bostad/lagenhet-3rum-haga-umea-kommun-skogsbrynet-6-18003573;Skogsbrynet 6;Haga, Umeå kommun;1 895 000 kr;63 m²;3 rum;          LägenhetLägenhet;For Sale
+79;https://www.hemnet.se/bostad/villa-5rum-skelleftea-kommun-haxgatan-19-18003720;Haxgatan 19;Örviken, Skellefteå kommun;2 295 000 kr;108 + 40 m²;5 rum;          VillaVilla;For Sale
+80;https://www.hemnet.se/bostad/villa-3rum-myran-vannas-kommun-skymningsvagen-21a-18003558;Skymningsvägen 21A;Myran, Vännäs kommun;1 095 000 kr;81 m²;3 rum;          VillaVilla;For Sale
+81;https://www.hemnet.se/bostad/lagenhet-2rum-umea-umea-kommun-olof-palmes-gata-17-18003524;Olof Palmes gata 17;Umeå, Umeå kommun;2 595 000 kr;61 m²;2 rum;          LägenhetLägenhet;For Sale
+82;https://www.hemnet.se/bostad/lagenhet-2rum-vannas-vannas-kommun-umevagen-4a-18003636;Umevägen 4A;Vännäs, Vännäs kommun;495 000 kr;64 m²;2 rum;          LägenhetLägenhet;For Sale
+83;https://www.hemnet.se/bostad/lagenhet-2rum-mariehojd-umea-kommun-skarvstensgatan-18-18003141;Skärvstensgatan 18;Mariehöjd, Umeå kommun;1 795 000 kr;46,5 m²;2 rum;          LägenhetLägenhet;For Sale
+84;https://www.hemnet.se/bostad/lagenhet-2rum-ersboda-umea-kommun-hinkgrand-66-18003140;Hinkgränd 66;Ersboda, Umeå kommun;995 000 kr;63,5 m²;2 rum;          LägenhetLägenhet;For Sale
+85;https://www.hemnet.se/bostad/villa-7rum-bergsbyn-skelleftea-kommun-nybyggargatan-28-18003237;Nybyggargatan 28;Bergsbyn, Skellefteå kommun;3 795 000 kr;115 + 106 m²;7 rum;          VillaVilla;For Sale
+86;https://www.hemnet.se/bostad/lagenhet-3rum-berghem-umea-kommun-axtorpsvagen-29c-18003038;Axtorpsvägen 29C;Berghem, Umeå kommun;2 395 000 kr;77,5 m²;3 rum;          LägenhetLägenhet;For Sale
+87;https://www.hemnet.se/bostad/lagenhet-2rum-vannas-vannas-kommun-tjarngatan-15-a-18002956;Tjärngatan 15 A;Vännäs, Vännäs kommun;425 000 kr;55 m²;2 rum;          LägenhetLägenhet;For Sale
+88;https://www.hemnet.se/bostad/lagenhet-3rum-ostermalm-umea-kommun-ostermalmsgatan-36e-18002615;Östermalmsgatan 36E;Östermalm, Umeå kommun;2 195 000 kr;73 m²;3 rum;          LägenhetLägenhet;For Sale
+89;https://www.hemnet.se/bostad/villa-6rum-savar-umea-kommun-ringvagen-17-18002435;Ringvägen 17;Sävar, Umeå kommun;2 695 000 kr;152 + 29 m²;6 rum;          VillaVilla;For Sale
+90;https://www.hemnet.se/bostad/radhus-5rum-teg-umea-kommun-korpralsvagen-1g-18000656;Korpralsvägen 1G;Teg, Umeå kommun;3 975 000 kr;135 + 17 m²;5 rum;          RadhusRadhus;For Sale
+91;https://www.hemnet.se/bostad/lagenhet-2rum-roback-umea-kommun-kragvagen-165a-17841827;Kragvägen 165A;Röbäck, Umeå kommun;1 095 000 kr;45 m²;2 rum;          LägenhetLägenhet;For Sale
+92;https://www.hemnet.se/bostad/lagenhet-2rum-ursviken-skelleftea-kommun-skelleftehamnsvagen-152-17997923;Skelleftehamnsvägen 152;Ursviken, Skellefteå kommun;850 000 kr;64,5 m²;2 rum;          LägenhetLägenhet;For Sale
+93;https://www.hemnet.se/bostad/radhus-5rum-sjungande-dalen-skelleftea-kommun-tenorvagen-31-18001296;Tenorvägen 31;Sjungande Dalen, Skellefteå kommun;3 200 000 kr;147 + 28 m²;5 rum;          RadhusRadhus;For Sale
+94;https://www.hemnet.se/bostad/fritidsboende-3rum-bielite-vilhelmina-kommun-bielite-153-18001576;Bielite 153;Bielite, Vilhelmina kommun;650 000 kr;46 m²;3 rum;          FritidshusFritidshus;For Sale
+95;https://www.hemnet.se/bostad/lagenhet-3rum-morohojden-skelleftea-kommun-myntgatan-3a-18000520;Myntgatan 3A;Moröhöjden, Skellefteå kommun;1 895 000 kr;81 m²;3 rum;          LägenhetLägenhet;For Sale
+96;https://www.hemnet.se/bostad/villa-6rum-skelleftea-kommun-geografigrand-17-18000757;Geografigränd 17;Bureå, Skellefteå kommun;1 150 000 kr;138 m²;6 rum;          VillaVilla;For Sale
+97;https://www.hemnet.se/bostad/lagenhet-1rum-tomtebo-umea-kommun-nackens-vag-22-17999577;Näckens väg 22;Tomtebo, Umeå kommun;1 395 000 kr;37,5 m²;1 rum;          LägenhetLägenhet;For Sale
+98;https://www.hemnet.se/bostad/lagenhet-5rum-ersboda-umea-kommun-torelvagen-76-17999275;Törelvägen 76;Ersboda, Umeå kommun;1 595 000 kr;120 m²;5 rum;          LägenhetLägenhet;For Sale
+99;https://www.hemnet.se/bostad/lagenhet-3rum-norrbacka-skelleftea-kommun-lakarvagen-5d-17997584;Läkarvägen 5D;Norrbacka, Skellefteå kommun;1 650 000 kr;80 m²;3 rum;          LägenhetLägenhet;For Sale
+100;https://www.hemnet.se/bostad/fritidsboende-3rum-klimpfjall-vilhelmina-kommun-bjornstigen-6-17993335;Björnstigen 6;Klimpfjäll, Vilhelmina kommun;1 800 000 kr;76 m²;3 rum;          FritidshusFritidshus;For Sale
+101;https://www.hemnet.se/bostad/fritidsboende-2rum-fatmomakke-grundfors-vilhelmina-kommun-fatmomakke-110-17997497;Fatmomakke 110;Fatmomakke/Grundfors, Vilhelmina kommun;2 600 000 kr;55 + 50 m²;2 rum;          FritidshusFritidshus;For Sale
+102;https://www.hemnet.se/bostad/lagenhet-3rum-obacka-strand-umea-kommun-hoppets-grand-32-17997297;Hoppets Gränd 32;Öbacka Strand, Umeå kommun;4 580 000 kr;93 m²;3 rum;          LägenhetLägenhet;For Sale
+103;https://www.hemnet.se/bostad/fritidsboende-4rum-hemavan-tarnaby-storumans-kommun-forskullevagen-34-17955607;Forskullevägen 34;Hemavan/Tärnaby, Storumans kommun;2 850 000 kr;56 m²;4 rum;          FritidshusFritidshus;For Sale
+104;https://www.hemnet.se/bostad/lagenhet-3rum-mariehojd-umea-kommun-skarvstensgatan-2-17997162;Skärvstensgatan 2;Mariehöjd, Umeå kommun;2 195 000 kr;66,5 m²;3 rum;          LägenhetLägenhet;For Sale
+105;https://www.hemnet.se/bostad/lagenhet-3rum-obacka-strand-umea-kommun-hoppets-grand-4-17996967;Hoppets gränd 4;Öbacka Strand, Umeå kommun;3 650 000 kr;92 m²;3 rum;          LägenhetLägenhet;For Sale
+106;https://www.hemnet.se/bostad/lagenhet-2rum-morohojden-skelleftea-kommun-myntgatan-5s-17997386;Myntgatan 5S;Moröhöjden, Skellefteå kommun;1 300 000 kr;63,5 m²;2 rum;          LägenhetLägenhet;For Sale
+107;https://www.hemnet.se/bostad/lagenhet-3rum-teg-umea-kommun-domarevagen-16b-17997304;Domarevägen 16B;Teg, Umeå kommun;1 795 000 kr;73 m²;3 rum;          LägenhetLägenhet;For Sale
+108;https://www.hemnet.se/bostad/lagenhet-3rum-sorbole-skelleftea-kommun-brogatan-9-17997283;Brogatan 9;Sörböle, Skellefteå kommun;1 985 000 kr;75,5 m²;3 rum;          LägenhetLägenhet;For Sale
+109;https://www.hemnet.se/bostad/lagenhet-3rum-berghem-umea-kommun-ragangen-2a-17993695;Rågången 2a;Berghem, Umeå kommun;2 295 000 kr;70,5 m²;3 rum;          LägenhetLägenhet;For Sale
+110;https://www.hemnet.se/bostad/villa-4rum-nordmaling-nordmalings-kommun-brattfors-24-17992735;Brattfors 24;Nordmaling, Nordmalings kommun;395 000 kr;100 + 25 m²;4 rum;          VillaVilla;For Sale
+111;https://www.hemnet.se/bostad/radhus-6rum-umea-umea-kommun-linakersvagen-1-17992755;Linåkersvägen 1;Umeå, Umeå kommun;4 700 000 kr;127 + 46 m²;6 rum;          RadhusRadhus;For Sale
+112;https://www.hemnet.se/bostad/villa-5rum-tegsoderslatt-umea-kommun-ringvagen-67-17992535;Ringvägen 67;TegSöderslätt, Umeå kommun;9 750 000 kr;165 + 200 m²;5 rum;          VillaVilla;For Sale
+113;https://www.hemnet.se/bostad/villa-2rum-vilhelmina-vilhelmina-kommun-baksjobacken-1-17992039;Baksjöbäcken 1;Vilhelmina, Vilhelmina kommun;250 000 kr;50 m²;2 rum;          VillaVilla;For Sale
+114;https://www.hemnet.se/bostad/lagenhet-3rum-umea-umea-kommun-ersbodavagen-216-17991898;Ersbodavägen 216;Umeå, Umeå kommun;1 400 000 kr;83 m²;3 rum;          LägenhetLägenhet;For Sale
+115;https://www.hemnet.se/bostad/villa-0rum-volgsele-vilhelmina-kommun-volgsele-6-17749515;Volgsele 6;Volgsele, Vilhelmina kommun;180 000 kr;96 m²;0 rum;          VillaVilla;For Sale
+116;https://www.hemnet.se/bostad/lagenhet-4rum-umedalen-umea-kommun-kullavagen-45-17987136;Kullavägen 45;Umedalen, Umeå kommun;1 895 000 kr;87,5 m²;4 rum;          LägenhetLägenhet;For Sale
+117;https://www.hemnet.se/bostad/fritidsboende-1rum-savar-umea-kommun-gunnismark-115-17990795;Gunnismark 115;Sävar, Umeå kommun;850 000 kr;45 + 10 m²;1 rum;          FritidshusFritidshus;For Sale
+118;https://www.hemnet.se/bostad/villa-4rum-fabodakern-umea-kommun-fabodakern-10-17991075;Fäbodåkern 10;Fäbodåkern, Umeå kommun;3 950 000 kr;142 + 26 m²;4 rum;          VillaVilla;For Sale
+119;https://www.hemnet.se/bostad/villa-5rum-hornefors-umea-kommun-eriksgatan-6-17990236;Eriksgatan 6;Hörnefors, Umeå kommun;3 595 000 kr;128 + 48 m²;5 rum;          VillaVilla;For Sale
+120;https://www.hemnet.se/bostad/villa-6rum-vannas-vannas-kommun-marahallan-5-17991475;Marahällan 5;Vännäs, Vännäs kommun;2 650 000 kr;140 + 65 m²;6 rum;          VillaVilla;For Sale
+121;https://www.hemnet.se/bostad/lagenhet-3rum-sunnana-skelleftea-kommun-nyckelgatan-114-17990135;Nyckelgatan 114;Sunnanå, Skellefteå kommun;1 795 000 kr;80 m²;3 rum;          LägenhetLägenhet;For Sale
+122;https://www.hemnet.se/bostad/lagenhet-3rum-boleang-umea-kommun-bjornbarsvagen-4c-17992076;Björnbärsvägen 4c;Böleäng, Umeå kommun;2 790 000 kr;83,5 m²;3 rum;          LägenhetLägenhet;For Sale
+123;https://www.hemnet.se/bostad/radhus-3rum-sunnana-skelleftea-kommun-lovstigen-25-17990195;Lövstigen 25;Sunnanå, Skellefteå kommun;2 795 000 kr;99 m²;3 rum;          RadhusRadhus;For Sale
+124;https://www.hemnet.se/bostad/villa-5rum-tallberg-nordmalings-kommun-tallberg-21-17987215;Tallberg 21;Tallberg, Nordmalings kommun;500 000 kr;120 + 40 m²;5 rum;          VillaVilla;For Sale
+125;https://www.hemnet.se/bostad/villa-124m2-burtrask-skelleftea-kommun-fiskarvagen-8-17989296;Fiskarvägen 8;Burträsk, Skellefteå kommun;1 375 000 kr;124 + 172 m²;None;          VillaVilla;For Sale
+126;https://www.hemnet.se/bostad/villa-5rum-carlshem-umea-kommun-kopparvagen-19-17989257;Kopparvägen 19;Carlshem, Umeå kommun;3 995 000 kr;120 + 57 m²;5 rum;          VillaVilla;For Sale
+127;https://www.hemnet.se/bostad/villa-5rum-robertsfors-robertsfors-kommun-ricklea-3-24-17988936;RICKLEÅ 3:24;Robertsfors, Robertsfors kommun;1 145 000 kr;96 + 15 m²;5 rum;          VillaVilla;For Sale
+128;https://www.hemnet.se/bostad/lagenhet-1,5rum-ost-pa-stan-umea-kommun-herrgardan-1a-17988655;Herrgärdan 1A;Öst på stan, Umeå kommun;1 650 000 kr;49 m²;1,5 rum;          LägenhetLägenhet;For Sale
+129;https://www.hemnet.se/bostad/villa-7rum-ursviken-skelleftea-kommun-fredsgatan-15-17988395;Fredsgatan 15;Ursviken, Skellefteå kommun;3 200 000 kr;152 + 39 m²;7 rum;          VillaVilla;For Sale
+130;https://www.hemnet.se/bostad/lagenhet-3rum-morohojden-skelleftea-kommun-krongatan-22-17988235;Krongatan 22;Moröhöjden, Skellefteå kommun;1 775 000 kr;77,5 m²;3 rum;          LägenhetLägenhet;For Sale
+131;https://www.hemnet.se/bostad/villa-6rum-bergsbyn-skelleftea-kommun-holmgatan-6-17986475;Holmgatan 6;Bergsbyn, Skellefteå kommun;3 495 000 kr;137 m²;6 rum;          VillaVilla;For Sale
+132;https://www.hemnet.se/bostad/villa-6rum-ostvik-skelleftea-kommun-ostvik-58-17981636;Ostvik 58;OSTVIK, Skellefteå kommun;1 400 000 kr;148 + 93 m²;6 rum;          VillaVilla;For Sale
+133;https://www.hemnet.se/bostad/lagenhet-3rum-rodang-umea-kommun-rallarrosgrand-20-17986175;Rallarrosgränd 20;Rödäng, Umeå kommun;2 325 000 kr;62,5 m²;3 rum;          LägenhetLägenhet;For Sale
+134;https://www.hemnet.se/bostad/lagenhet-3rum-centrum-skelleftea-kommun-kopmangatan-8b-17821312;Köpmangatan 8B;Centrum, Skellefteå kommun;2 695 000 kr;77 m²;3 rum;          LägenhetLägenhet;For Sale
+135;https://www.hemnet.se/bostad/lagenhet-2rum-sjungande-dalen-skelleftea-kommun-orkestervagen-58-17983575;Orkestervägen 58;Sjungande Dalen, Skellefteå kommun;1 450 000 kr;63 m²;2 rum;          LägenhetLägenhet;For Sale
+136;https://www.hemnet.se/bostad/villa-6rum-grubbe-umea-kommun-ekorrvagen-12-17981478;Ekorrvägen 12;Grubbe, Umeå kommun;5 395 000 kr;135 + 20 m²;6 rum;          VillaVilla;For Sale
+137;https://www.hemnet.se/bostad/villa-5rum-stamningsgarden-skelleftea-kommun-granbackavagen-38-17975078;Granbackavägen 38;Stämningsgården, Skellefteå kommun;3 550 000 kr;160 + 50 m²;5 rum;          VillaVilla;For Sale
+138;https://www.hemnet.se/bostad/lagenhet-5rum-berghem-umea-kommun-skidsparet-4-a-17978663;Skidspåret 4 A;Berghem, Umeå kommun;3 995 000 kr;128 m²;5 rum;          LägenhetLägenhet;For Sale
+139;https://www.hemnet.se/bostad/villa-5rum-anaset-robertsfors-kommun-ringvagen-6-17976695;Ringvägen 6;Ånäset, Robertsfors kommun;550 000 kr;98 + 98 m²;5 rum;          VillaVilla;For Sale
+140;https://www.hemnet.se/bostad/lagenhet-3rum-mariehojd-umea-kommun-skarvstensgatan-2-17978303;Skärvstensgatan 2;Mariehöjd, Umeå kommun;2 195 000 kr;66,5 m²;3 rum;          LägenhetLägenhet;For Sale
+141;https://www.hemnet.se/bostad/lagenhet-2rum-teg-umea-kommun-malargrand-3h-17979344;Målargränd 3H;Teg, Umeå kommun;2 095 000 kr;63,5 m²;2 rum;          LägenhetLägenhet;For Sale
+142;https://www.hemnet.se/bostad/lagenhet-2rum-norrbole-skelleftea-kommun-norrbolegatan-37a-17978526;Norrbölegatan 37A;Norrböle, Skellefteå kommun;1 695 000 kr;59,5 m²;2 rum;          LägenhetLägenhet;For Sale
+143;https://www.hemnet.se/bostad/lagenhet-1rum-norrbole-skelleftea-kommun-asgatan-35a-16901651;Åsgatan 35A;Norrböle, Skellefteå kommun;1 025 000 kr;49 m²;1 rum;          LägenhetLägenhet;For Sale
+144;https://www.hemnet.se/bostad/lagenhet-3rum-centrum-skelleftea-kommun-kopmangatan-16c-17978777;Köpmangatan 16C;Centrum, Skellefteå kommun;3 175 000 kr;77,9 m²;3 rum;          LägenhetLägenhet;For Sale
+145;https://www.hemnet.se/bostad/lagenhet-1rum-sjungande-dalen-skelleftea-kommun-dirigentvagen-30-17978242;Dirigentvägen 30;Sjungande dalen, Skellefteå kommun;925 000 kr;40 m²;1 rum;          LägenhetLägenhet;For Sale
+146;https://www.hemnet.se/bostad/radhus-5rum-marieberg-umea-kommun-bjornvagen-22-17841541;Björnvägen 22;Marieberg, Umeå kommun;3 895 000 kr;133 + 60 m²;5 rum;          RadhusRadhus;For Sale
+147;https://www.hemnet.se/bostad/radhus-6rum-boleang-umea-kommun-appelvagen-31-17975938;Äppelvägen 31;Böleäng, Umeå kommun;3 995 000 kr;150 m²;6 rum;          RadhusRadhus;For Sale
+148;https://www.hemnet.se/bostad/villa-4rum-skelleftea-kommun-babordsgatan-3-17975177;Babordsgatan 3;Örviken, Skellefteå kommun;2 000 000 kr;91 + 60 m²;4 rum;          VillaVilla;For Sale
+149;https://www.hemnet.se/bostad/lagenhet-4rum-centrum-skelleftea-kommun-nygatan-62b-17974895;Nygatan 62B;Centrum, Skellefteå kommun;2 995 000 kr;110 m²;4 rum;          LägenhetLägenhet;For Sale
+150;https://www.hemnet.se/bostad/radhus-4rum-norrang-lycksele-kommun-galoppvagen-44-17973418;Galoppvägen 44;Norräng, Lycksele kommun;990 000 kr;103 + 24 m²;4 rum;          RadhusRadhus;For Sale
+151;https://www.hemnet.se/bostad/villa-3rum-holmsund-umea-kommun-klaravagen-11-17972742;Klaravägen 11;Holmsund, Umeå kommun;1 795 000 kr;84 + 84 m²;3 rum;          VillaVilla;For Sale
+152;https://www.hemnet.se/bostad/lagenhet-3rum-skelleftehamn-skelleftea-kommun-hammargatan-18-17972475;Hammargatan 18;SKELLEFTEHAMN, Skellefteå kommun;700 000 kr;70 m²;3 rum;          LägenhetLägenhet;For Sale
+153;https://www.hemnet.se/bostad/lagenhet-2rum-ersboda-umea-kommun-karnvagen-253-17972397;Kärnvägen 253;Ersboda, Umeå kommun;1 345 000 kr;64,5 m²;2 rum;          LägenhetLägenhet;For Sale
+154;https://www.hemnet.se/bostad/lagenhet-3rum-umea-kommun-rallarrosgrand-20-17970455;Rallarrosgränd 20;UMEÅ, Umeå kommun;2 795 000 kr;72 m²;3 rum;          LägenhetLägenhet;For Sale
+155;https://www.hemnet.se/bostad/villa-5rum-hornefors-umea-kommun-kempegatan-5-17966032;Kempegatan 5;Hörnefors, Umeå kommun;1 580 000 kr;95 + 64 m²;5 rum;          VillaVilla;For Sale
+156;https://www.hemnet.se/bostad/villa-5rum-dorotea-dorotea-kommun-hantverksgatan-10-17965929;Hantverksgatan 10;Dorotea, Dorotea kommun;290 000 kr;156 + 84 m²;5 rum;          VillaVilla;For Sale
+157;https://www.hemnet.se/bostad/villa-3rum-holmsund-umea-kommun-tornbergsvagen-24-17966199;Tornbergsvägen 24;Holmsund, Umeå kommun;1 595 000 kr;75 + 75 m²;3 rum;          VillaVilla;For Sale
+158;https://www.hemnet.se/bostad/villa-8rum-backen-umea-kommun-spiralvagen-9-17969517;Spiralvägen 9;Backen, Umeå kommun;4 995 000 kr;143 + 114 m²;8 rum;          VillaVilla;For Sale
+159;https://www.hemnet.se/bostad/lagenhet-3rum-haga-umea-kommun-norra-majorsgatan-22-17966338;Norra Majorsgatan 22;Haga, Umeå kommun;2 295 000 kr;80,5 m²;3 rum;          LägenhetLägenhet;For Sale
+160;https://www.hemnet.se/bostad/lagenhet-2rum-anderstorp-skelleftea-kommun-skiftesgatan-48b-17966236;Skiftesgatan 48B;Anderstorp, Skellefteå kommun;795 000 kr;44 m²;2 rum;          LägenhetLägenhet;For Sale
+161;https://www.hemnet.se/bostad/lagenhet-2rum-vannas-vannas-kommun-vintergatan-12-b-17966258;Vintergatan 12 B;Vännäs, Vännäs kommun;350 000 kr;38 m²;2 rum;          LägenhetLägenhet;For Sale
+162;https://www.hemnet.se/bostad/villa-4rum-logdea-nordmalings-kommun-aspea-60-17966044;Aspeå 60;Lögdeå, Nordmalings kommun;350 000 kr;106 + 20 m²;4 rum;          VillaVilla;For Sale
+163;https://www.hemnet.se/bostad/villa-6rum-skelleftea-kommun-mobackavagen-38-17949375;Mobackavägen 38;Skellefteå, Skellefteå kommun;4 495 000 kr;155 + 31 m²;6 rum;          VillaVilla;For Sale
+164;https://www.hemnet.se/bostad/lagenhet-2rum-umea-kommun-rallarrosgrand-18-17964935;Rallarrosgränd 18;Umeå, Umeå kommun;1 950 000 kr;48,5 m²;2 rum;          LägenhetLägenhet;For Sale
+165;https://www.hemnet.se/bostad/lagenhet-2rum-alvsbacka-skelleftea-kommun-ostra-nygatan-113-17964855;Östra Nygatan 113;Älvsbacka, Skellefteå kommun;1 650 000 kr;55 m²;2 rum;          LägenhetLägenhet;For Sale
+166;https://www.hemnet.se/bostad/lagenhet-2rum-obacka-strand-umea-kommun-hoppets-grand-22-17958476;Hoppets gränd 22;Öbacka Strand, Umeå kommun;2 650 000 kr;60 m²;2 rum;          LägenhetLägenhet;For Sale
+167;https://www.hemnet.se/bostad/villa-4rum-bastutrask-norsjo-kommun-vastra-jarnvagsgatan-6-17962960;Västra Järnvägsgatan 6;Bastuträsk, Norsjö kommun;250 000 kr;140 m²;4 rum;          VillaVilla;For Sale
+168;https://www.hemnet.se/bostad/villa-6rum-holmsund-umea-kommun-villagatan-11-17962797;Villagatan 11;Holmsund, Umeå kommun;3 250 000 kr;146 + 60 m²;6 rum;          VillaVilla;For Sale
+169;https://www.hemnet.se/bostad/villa-4rum-obbola-umea-kommun-hammarstromsvagen-20-17962817;Hammarströmsvägen 20;Obbola, Umeå kommun;2 750 000 kr;98 + 92 m²;4 rum;          VillaVilla;For Sale
+170;https://www.hemnet.se/bostad/lagenhet-4rum-umedalen-umea-kommun-balettgrand-9e-17962917;Balettgränd 9E;Umedalen, Umeå kommun;2 495 000 kr;107,7 m²;4 rum;          LägenhetLägenhet;For Sale
+171;https://www.hemnet.se/bostad/lagenhet-2rum-tubole-skelleftea-kommun-norrstigen-5-17962755;Norrstigen 5;Tuböle, Skellefteå kommun;2 195 000 kr;73,5 m²;2 rum;          LägenhetLägenhet;For Sale
+172;https://www.hemnet.se/bostad/fritidsboende-3rum-ursviken-skelleftea-kommun-penningskrinet-50-17961936;Penningskrinet 50;Ursviken, Skellefteå kommun;1 250 000 kr;72 + 20 m²;3 rum;          FritidshusFritidshus;For Sale
+173;https://www.hemnet.se/bostad/villa-4rum-byske-norra-stensjon-skelleftea-kommun-norra-stensjon-6-17961697;Norra Stensjön 6;BYSKE- Norra Stensjön, Skellefteå kommun;1 100 000 kr;120 + 55 m²;4 rum;          VillaVilla;For Sale
+174;https://www.hemnet.se/bostad/lagenhet-4rum-umea-kommun-rallarrosgrand-20-17960337;Rallarrosgränd 20;Umeå, Umeå kommun;3 795 000 kr;92,5 m²;4 rum;          LägenhetLägenhet;For Sale
+175;https://www.hemnet.se/nybyggnadsprojekt/brf-rodangs-blabar-i-umea-17960118;Brf Rödängs Blåbär i Umeå;Umeå kommun;fr. 1 950 000 kr;48,5–92,5 m²;2–4 rum;          LägenhetLägenhet;For Sale
+176;https://www.hemnet.se/bostad/lagenhet-3rum-umea-kommun-rallarrosgrand-18-17959918;Rallarrosgränd 18;Umeå, Umeå kommun;2 675 000 kr;71 m²;3 rum;          LägenhetLägenhet;For Sale
+177;https://www.hemnet.se/bostad/villa-5rum-mala-kommun-bolagsgatan-17-17959857;Bolagsgatan 17;Malå, Malå kommun;750 000 kr;117 + 52 m²;5 rum;          VillaVilla;For Sale
+178;https://www.hemnet.se/bostad/villa-8rum-roback-umea-kommun-riksvagen-120a-17958815;Riksvägen 120A;Röbäck, Umeå kommun;6 500 000 kr;265 + 85 m²;8 rum;          VillaVilla;For Sale
+179;https://www.hemnet.se/bostad/lagenhet-3rum-sandakern-umea-kommun-frida-aslunds-grand-1b-17957333;Frida Åslunds Gränd 1B;Sandåkern, Umeå kommun;3 100 000 kr;80,5 m²;3 rum;          LägenhetLägenhet;For Sale
+180;https://www.hemnet.se/bostad/lagenhet-2rum-umedalen-umea-kommun-paradisgrand-2-17955962;Paradisgränd 2;Umedalen, Umeå kommun;1 425 000 kr;68 m²;2 rum;          LägenhetLägenhet;For Sale
+181;https://www.hemnet.se/bostad/villa-123m2-sorsele-sorsele-kommun-viltvagen-8-17955377;Viltvägen 8;Sorsele, Sorsele kommun;450 000 kr;123 + 83 m²;None;          VillaVilla;For Sale
+182;https://www.hemnet.se/bostad/villa-5rum-vindeln-vindelns-kommun-skivsjo-22-17955932;Skivsjö 22;Vindeln, Vindelns kommun;595 000 kr;139 + 27 m²;5 rum;          VillaVilla;For Sale
+183;https://www.hemnet.se/bostad/villa-4rum-bjurholm-bjurholms-kommun-bredtrask-39-17955777;Bredträsk 39;Bjurholm, Bjurholms kommun;395 000 kr;118 + 35 m²;4 rum;          VillaVilla;For Sale
+184;https://www.hemnet.se/bostad/villa-5rum-sodermalm-centrum-lycksele-kommun-vargstigen-1a-17955577;Vargstigen 1A;Södermalm/Centrum, Lycksele kommun;1 490 000 kr;110 + 64 m²;5 rum;          VillaVilla;For Sale
+185;https://www.hemnet.se/bostad/villa-5rum-skelleftea-kommun-falmarksforsen-65-17955284;Falmarksforsen 65;Skellefteå, Skellefteå kommun;2 950 000 kr;160 m²;5 rum;          VillaVilla;For Sale
+186;https://www.hemnet.se/bostad/radhus-5rum-mariehem-umea-kommun-trastvagen-9f-17955256;Trastvägen 9F;Mariehem, Umeå kommun;4 500 000 kr;122 m²;5 rum;          RadhusRadhus;For Sale
+187;https://www.hemnet.se/bostad/villa-4rum-vindeln-vindelns-kommun-angsvagen-23-17953622;Ängsvägen 23;Vindeln, Vindelns kommun;875 000 kr;97 + 33 m²;4 rum;          VillaVilla;For Sale
+188;https://www.hemnet.se/bostad/lagenhet-2rum-fridhem-umea-kommun-gammliavagen-12-17954635;Gammliavägen 12;Fridhem, Umeå kommun;1 495 000 kr;46,5 m²;2 rum;          LägenhetLägenhet;For Sale
+189;https://www.hemnet.se/bostad/fritidsboende-3rum-hemavan-birke-storumans-kommun-gondolrakan-4-17953887;Gondolrakan 4;Hemavan/Birke, Storumans kommun;1 695 000 kr;48 m²;3 rum;          FritidshusFritidshus;For Sale
+190;https://www.hemnet.se/bostad/villa-5rum-hemmingen-norsjo-kommun-hemmingen-24-17953707;Hemmingen 24;Hemmingen, Norsjö kommun;375 000 kr;126 + 70 m²;5 rum;          VillaVilla;For Sale
+191;https://www.hemnet.se/bostad/villa-2rum-tame-byske-skelleftea-kommun-tame-124-17953564;Tåme 124;Tåme - Byske, Skellefteå kommun;600 000 kr;68 m²;2 rum;          VillaVilla;For Sale
+192;https://www.hemnet.se/bostad/lagenhet-2rum-umea-kommun-kalhagsvagen-27-17953820;Kålhagsvägen 27;Umeå, Umeå kommun;2 000 000 kr;54 m²;2 rum;          LägenhetLägenhet;For Sale
+193;https://www.hemnet.se/bostad/lagenhet-5rum-umea-kommun-kalhagsvagen-27-17954020;Kålhagsvägen 27;Umeå, Umeå kommun;3 600 000 kr;101 m²;5 rum;          LägenhetLägenhet;For Sale
+194;https://www.hemnet.se/bostad/lagenhet-3rum-umea-kommun-kalhagsvagen-27-17953979;Kålhagsvägen 27;Umeå, Umeå kommun;2 800 000 kr;73 m²;3 rum;          LägenhetLägenhet;For Sale
+195;https://www.hemnet.se/bostad/lagenhet-2rum-umea-kommun-kalhagsvagen-27-17953643;Kålhagsvägen 27;Umeå, Umeå kommun;2 100 000 kr;53 m²;2 rum;          LägenhetLägenhet;For Sale
+196;https://www.hemnet.se/bostad/lagenhet-2rum-umea-kommun-kalhagsvagen-27-17953642;Kålhagsvägen 27;Umeå, Umeå kommun;2 000 000 kr;52 m²;2 rum;          LägenhetLägenhet;For Sale
+197;https://www.hemnet.se/bostad/villa-6rum-sodermalm-lycksele-kommun-fjallvagen-4-17953741;Fjällvägen 4;Södermalm, Lycksele kommun;800 000 kr;120 m²;6 rum;          VillaVilla;For Sale
+198;https://www.hemnet.se/bostad/lagenhet-3rum-mariehem-umea-kommun-mariehemsvagen-144-17953938;Mariehemsvägen 144;Mariehem, Umeå kommun;1 895 000 kr;69,9 m²;3 rum;          LägenhetLägenhet;For Sale
+199;https://www.hemnet.se/bostad/lagenhet-3rum-ost-pa-stan-umea-kommun-haradshovdingegatan-15d-17952764;Häradshövdingegatan 15D;Öst på stan, Umeå kommun;4 995 000 kr;104,7 m²;3 rum;          LägenhetLägenhet;For Sale
+200;https://www.hemnet.se/bostad/lagenhet-2rum-getberget-skelleftea-kommun-getbergsvagen-11-17953071;Getbergsvägen 11;Getberget, Skellefteå kommun;1 450 000 kr;58 m²;2 rum;          LägenhetLägenhet;For Sale
+201;https://www.hemnet.se/bostad/lagenhet-2rum-umea-kommun-kronovagen-7a-17952668;Kronovägen 7A;Umeå, Umeå kommun;1 775 000 kr;58 m²;2 rum;          LägenhetLägenhet;For Sale
+202;https://www.hemnet.se/bostad/fritidsboende-borgafjall-dorotea-kommun-avasjovagen-44-17952744;Avasjövägen 44;Borgafjäll, Dorotea kommun;1 200 000 kr;None;None;          FritidshusFritidshus;For Sale
+203;https://www.hemnet.se/bostad/fritidsboende-5rum-borgafjall-dorotea-kommun-liftsvangen-9-17952517;Liftsvängen 9;Borgafjäll, Dorotea kommun;4 500 000 kr;160 m²;5 rum;          FritidshusFritidshus;For Sale
+204;https://www.hemnet.se/bostad/fritidsboende-3rum-lovberg-vilhelmina-kommun-lovberg-75-17952795;Lövberg 75;Lövberg, Vilhelmina kommun;1 485 000 kr;42 m²;3 rum;          FritidshusFritidshus;For Sale
+205;https://www.hemnet.se/bostad/fritidsboende-3rum-lovberg-vilhelmina-kommun-lovberg-77-17952775;Lövberg 77;Lövberg, Vilhelmina kommun;1 485 000 kr;42 m²;3 rum;          FritidshusFritidshus;For Sale
+206;https://www.hemnet.se/bostad/villa-3rum-skelleftea-kommun-jakobsfors-6-17952023;Jakobsfors 6;Byske, Skellefteå kommun;650 000 kr;109 m²;3 rum;          VillaVilla;For Sale
+207;https://www.hemnet.se/bostad/lagenhet-2rum-centrum-umea-kommun-brogatan-3d-17952125;Brogatan 3D;Centrum, Umeå kommun;2 095 000 kr;58 m²;2 rum;          LägenhetLägenhet;For Sale
+208;https://www.hemnet.se/bostad/fritidsboende-4rum-norrmjole-umea-kommun-battringsvagen-13-17951925;Bättringsvägen 13;Norrmjöle, Umeå kommun;1 795 000 kr;57 m²;4 rum;          FritidshusFritidshus;For Sale
+209;https://www.hemnet.se/bostad/lagenhet-4rum-teg-umea-kommun-lansmansvagen-13-17951181;Länsmansvägen 13;Teg, Umeå kommun;3 395 000 kr;109 m²;4 rum;          LägenhetLägenhet;For Sale
+210;https://www.hemnet.se/bostad/lagenhet-1rum-norrbole-skelleftea-kommun-stenkilsgatan-46a-17948255;Stenkilsgatan 46A;NORRBÖLE, Skellefteå kommun;1 100 000 kr;24 m²;1 rum;          LägenhetLägenhet;For Sale
+211;https://www.hemnet.se/bostad/fritidsboende-3rum-borgafjall-dorotea-kommun-tranbarsstigen-4-17951095;Tranbärsstigen 4;Borgafjäll, Dorotea kommun;1 875 000 kr;55 m²;3 rum;          FritidshusFritidshus;For Sale
+212;https://www.hemnet.se/bostad/lagenhet-1,5rum-prastbordet-skelleftea-kommun-faltjagarvagen-37a-17950335;Fältjägarvägen 37a;Prästbordet, Skellefteå kommun;1 395 000 kr;53,6 m²;1,5 rum;          LägenhetLägenhet;For Sale
+213;https://www.hemnet.se/bostad/lagenhet-fallfors-skelleftea-kommun-fallforsvagen-39-17950236;Fällforsvägen 39;Fällfors, Skellefteå kommun;1 750 000 kr;None;None;          LägenhetLägenhet;For Sale
+214;https://www.hemnet.se/bostad/villa-4rum-sunnana-skelleftea-kommun-ladstigen-5-17949577;Ladstigen 5;Sunnanå, Skellefteå kommun;2 900 000 kr;119 + 37 m²;4 rum;          VillaVilla;For Sale
+215;https://www.hemnet.se/bostad/fritidsboende-4rum-ammarnas-sorsele-kommun-myrvagen-10-17948657;Myrvägen 10;AMMARNÄS, Sorsele kommun;1 500 000 kr;72 + 18 m²;4 rum;          FritidshusFritidshus;For Sale
+216;https://www.hemnet.se/bostad/villa-7rum-dorotea-dorotea-kommun-avasjovagen-8-17948215;Avasjövägen 8;Dorotea, Dorotea kommun;4 995 000 kr;160 + 30 m²;7 rum;          VillaVilla;For Sale
+217;https://www.hemnet.se/bostad/fritidsboende-3rum-hemavan-storumans-kommun-bla-vagen-17-stuga-11-17945443;Blå vägen 17 Stuga 11;Hemavan, Storumans kommun;1 395 000 kr;34 m²;3 rum;          FritidshusFritidshus;For Sale
+218;https://www.hemnet.se/bostad/fritidsboende-3rum-varutrask-skelleftea-kommun-varutrask-212-17944689;Varuträsk 212;Varuträsk, Skellefteå kommun;1 000 000 kr;54 m²;3 rum;          FritidshusFritidshus;For Sale
+219;https://www.hemnet.se/bostad/lagenhet-3rum-umea-umea-kommun-utmarksvagen-7b-17945281;Utmarksvägen 7B;Umeå, Umeå kommun;2 495 000 kr;70 m²;3 rum;          LägenhetLägenhet;For Sale
+220;https://www.hemnet.se/bostad/radhus-5rum-boleang-umea-kommun-krakbarsvagen-19-17944804;Kråkbärsvägen 19;Böleäng, Umeå kommun;4 080 000 kr;112 m²;5 rum;          RadhusRadhus;For Sale
+221;https://www.hemnet.se/bostad/fritidsboende-3rum-gronfjall-vilhelmina-kommun-gronfjall-128-17944931;Grönfjäll 128;Grönfjäll, Vilhelmina kommun;1 200 000 kr;45 m²;3 rum;          FritidshusFritidshus;For Sale
+222;https://www.hemnet.se/bostad/lagenhet-5rum-vast-pa-stan-umea-kommun-skolgatan-16-17938897;Skolgatan 16;Väst På Stan, Umeå kommun;3 100 000 kr;102 m²;5 rum;          LägenhetLägenhet;For Sale
+223;https://www.hemnet.se/bostad/fritidsboende-3rum-holmon-umea-kommun-berguddsvagen-53-17940298;Berguddsvägen 53;Holmön, Umeå kommun;1 295 000 kr;45 m²;3 rum;          FritidshusFritidshus;For Sale
+224;https://www.hemnet.se/bostad/villa-5rum-vilhelmina-vilhelmina-kommun-tallasvagen-17-17937464;Tallåsvägen 17;Vilhelmina, Vilhelmina kommun;545 000 kr;117 + 83 m²;5 rum;          VillaVilla;For Sale
+225;https://www.hemnet.se/bostad/villa-4rum-skelleftea-skelleftea-kommun-skidstigen-26-17930637;Skidstigen 26;Skellefteå, Skellefteå kommun;2 950 000 kr;117 + 63 m²;4 rum;          VillaVilla;For Sale
+226;https://www.hemnet.se/bostad/radhus-4rum-norrmalm-lycksele-kommun-gronsaksstigen-46-17928639;Grönsaksstigen 46;Norrmalm, Lycksele kommun;425 000 kr;118 m²;4 rum;          RadhusRadhus;For Sale
+227;https://www.hemnet.se/bostad/lagenhet-3rum-alidhojd-umea-kommun-kuratorvagen-30-17922275;Kuratorvägen 30;Ålidhöjd, Umeå kommun;2 095 000 kr;78,5 m²;3 rum;          LägenhetLägenhet;For Sale
+228;https://www.hemnet.se/bostad/villa-6rum-byske-skelleftea-kommun-degerliden-8-17918716;Degerliden 8;Byske, Skellefteå kommun;450 000 kr;150 + 10 m²;6 rum;          VillaVilla;For Sale
+229;https://www.hemnet.se/bostad/fritidsboende-4rum-hemavan-storumans-kommun-varstigen-1-17918336;Vårstigen 1;Hemavan, Storumans kommun;3 295 000 kr;79 m²;4 rum;          FritidshusFritidshus;For Sale
+230;https://www.hemnet.se/bostad/fritidsboende-vilhelmina-vilhelmina-kommun-myrkulla-1-17918542;Myrkulla 1;Vilhelmina, Vilhelmina kommun;2 495 000 kr;None;None;          FritidshusFritidshus;For Sale
+231;https://www.hemnet.se/bostad/fritidsboende-klimpfjall-vilhelmina-kommun-lovberg-136-17914980;Lövberg 136;Klimpfjäll, Vilhelmina kommun;795 000 kr;None;None;          FritidshusFritidshus;For Sale
+232;https://www.hemnet.se/bostad/lagenhet-2rum-centrum-skelleftea-kommun-strandgatan-13c-17912435;Strandgatan 13C;CENTRUM, Skellefteå kommun;1 500 000 kr;50 m²;2 rum;          LägenhetLägenhet;For Sale
+233;https://www.hemnet.se/bostad/lagenhet-3rum-ost-pa-stan-umea-kommun-jarnvagsgatan-9a-17912081;Järnvägsgatan 9A;Öst på stan, Umeå kommun;2 795 000 kr;82 m²;3 rum;          LägenhetLägenhet;For Sale
+234;https://www.hemnet.se/bostad/fritidsboende-5rum-tarnaby-storumans-kommun-gammstallnaset-231-17902661;Gammställnäset 231;Tärnaby, Storumans kommun;2 895 000 kr;83 + 10 m²;5 rum;          FritidshusFritidshus;For Sale
+235;https://www.hemnet.se/bostad/lagenhet-2rum-tomtebo-umea-kommun-kalhagsvagen-29-a-17901444;Kålhagsvägen 29 A;Tomtebo, Umeå kommun;1 695 000 kr;54 m²;2 rum;          LägenhetLägenhet;For Sale
+236;https://www.hemnet.se/bostad/fritidsboende-5rum-joesjo-storumans-kommun-joesjo-118-17902450;Joesjö 118;Joesjö, Storumans kommun;750 000 kr;120 m²;5 rum;          FritidshusFritidshus;For Sale
+237;https://www.hemnet.se/bostad/villa-2rum-asen-norsjo-kommun-asen-1-17898956;Åsen 1;Åsen, Norsjö kommun;475 000 kr;64 m²;2 rum;          VillaVilla;For Sale
+238;https://www.hemnet.se/bostad/villa-7rum-umea-umea-kommun-sormjole-20-17760679;Sörmjöle 20;Umeå, Umeå kommun;1 795 000 kr;190 + 80 m²;7 rum;          VillaVilla;For Sale
+239;https://www.hemnet.se/bostad/villa-4rum-orviken-skelleftea-kommun-babordsgatan-4-17888604;Babordsgatan 4;Örviken, Skellefteå kommun;3 575 000 kr;124 + 72 m²;4 rum;          VillaVilla;For Sale
+240;https://www.hemnet.se/bostad/villa-0rum-lycksele-kommun-lunnvagen-1-17886883;Lunnvägen 1;, Lycksele kommun;1 995 000 kr;540 + 240 m²;0 rum;          VillaVilla;For Sale
+241;https://www.hemnet.se/bostad/villa-4rum-ersmark-umea-kommun-tallbacken-10d-17541035;Tallbacken 10D;Ersmark, Umeå kommun;5 500 000 kr;132,5 + 45,5 m²;4 rum;          VillaVilla;For Sale
+242;https://www.hemnet.se/bostad/lagenhet-3rum-obacka-strand-umea-kommun-hoppets-grand-22-17884532;Hoppets gränd 22;Öbacka strand, Umeå kommun;3 795 000 kr;88 m²;3 rum;          LägenhetLägenhet;For Sale
+243;https://www.hemnet.se/bostad/lagenhet-3rum-haga-umea-kommun-stenmarksvagen-2-a-17875719;Stenmarksvägen 2 A;Haga, Umeå kommun;2 495 000 kr;72 m²;3 rum;          LägenhetLägenhet;For Sale
+244;https://www.hemnet.se/bostad/villa-3rum-boliden-skelleftea-kommun-yttre-norrstrom-5-17870955;Yttre Norrström 5;Boliden, Skellefteå kommun;400 000 kr;3 rum;None;          VillaVilla;For Sale
+245;https://www.hemnet.se/bostad/villa-6rum-umea-kommun-skatenvagen-6-17871096;Skatenvägen 6;Umeå, Umeå kommun;3 900 000 kr;153 + 225 m²;6 rum;          VillaVilla;For Sale
+246;https://www.hemnet.se/bostad/villa-7rum-bygdea-robertsfors-kommun-kustlandsvagen-11-17383076;Kustlandsvägen 11;Bygdeå, Robertsfors kommun;1 695 000 kr;178 + 89 m²;7 rum;          VillaVilla;For Sale
+247;https://www.hemnet.se/bostad/villa-3rum-burtrask-skelleftea-kommun-brannkalen-47-17862475;Brännkälen 47;Burträsk, Skellefteå kommun;650 000 kr;81 + 15 m²;3 rum;          VillaVilla;For Sale
+248;https://www.hemnet.se/bostad/villa-4rum-storuman-storumans-kommun-skarvsjoby-230-17863047;Skarvsjöby 230;Storuman, Storumans kommun;495 000 kr;105 + 105 m²;4 rum;          VillaVilla;For Sale
+249;https://www.hemnet.se/bostad/fritidsboende-3rum-skarvsjoby-storumans-kommun-skarvsjoby-111-17863028;Skarvsjöby 111;Skarvsjöby, Storumans kommun;495 000 kr;65 m²;3 rum;          FritidshusFritidshus;For Sale
+250;https://www.hemnet.se/bostad/villa-2rum-holmsund-umea-kommun-jarnvagsgatan-9-17862970;Järnvägsgatan 9;Holmsund, Umeå kommun;1 200 000 kr;60 m²;2 rum;          VillaVilla;For Sale
+251;https://www.hemnet.se/bostad/fritidsboende-3rum-sormjole-umea-kommun-stenbarsvagen-1-17862765;Stenbärsvägen 1;Sörmjöle, Umeå kommun;750 000 kr;46 m²;3 rum;          FritidshusFritidshus;For Sale
+252;https://www.hemnet.se/bostad/fritidsboende-borgafjall-dorotea-kommun-avasjovagen-44-17952744;Avasjövägen 44;Borgafjäll, Dorotea kommun;1 200 000 kr;None;None;          FritidshusFritidshus;For Sale
+253;https://www.hemnet.se/bostad/fritidsboende-5rum-borgafjall-dorotea-kommun-liftsvangen-9-17952517;Liftsvängen 9;Borgafjäll, Dorotea kommun;4 500 000 kr;160 m²;5 rum;          FritidshusFritidshus;For Sale
+254;https://www.hemnet.se/bostad/fritidsboende-3rum-lovberg-vilhelmina-kommun-lovberg-75-17952795;Lövberg 75;Lövberg, Vilhelmina kommun;1 485 000 kr;42 m²;3 rum;          FritidshusFritidshus;For Sale
+255;https://www.hemnet.se/bostad/fritidsboende-3rum-lovberg-vilhelmina-kommun-lovberg-77-17952775;Lövberg 77;Lövberg, Vilhelmina kommun;1 485 000 kr;42 m²;3 rum;          FritidshusFritidshus;For Sale
+256;https://www.hemnet.se/bostad/villa-3rum-skelleftea-kommun-jakobsfors-6-17952023;Jakobsfors 6;Byske, Skellefteå kommun;650 000 kr;109 m²;3 rum;          VillaVilla;For Sale
+257;https://www.hemnet.se/bostad/lagenhet-2rum-centrum-umea-kommun-brogatan-3d-17952125;Brogatan 3D;Centrum, Umeå kommun;2 095 000 kr;58 m²;2 rum;          LägenhetLägenhet;For Sale
+258;https://www.hemnet.se/bostad/fritidsboende-4rum-norrmjole-umea-kommun-battringsvagen-13-17951925;Bättringsvägen 13;Norrmjöle, Umeå kommun;1 795 000 kr;57 m²;4 rum;          FritidshusFritidshus;For Sale
+259;https://www.hemnet.se/bostad/lagenhet-4rum-teg-umea-kommun-lansmansvagen-13-17951181;Länsmansvägen 13;Teg, Umeå kommun;3 395 000 kr;109 m²;4 rum;          LägenhetLägenhet;For Sale
+260;https://www.hemnet.se/bostad/lagenhet-1rum-norrbole-skelleftea-kommun-stenkilsgatan-46a-17948255;Stenkilsgatan 46A;NORRBÖLE, Skellefteå kommun;1 100 000 kr;24 m²;1 rum;          LägenhetLägenhet;For Sale
+261;https://www.hemnet.se/bostad/fritidsboende-3rum-borgafjall-dorotea-kommun-tranbarsstigen-4-17951095;Tranbärsstigen 4;Borgafjäll, Dorotea kommun;1 875 000 kr;55 m²;3 rum;          FritidshusFritidshus;For Sale
+262;https://www.hemnet.se/bostad/lagenhet-1,5rum-prastbordet-skelleftea-kommun-faltjagarvagen-37a-17950335;Fältjägarvägen 37a;Prästbordet, Skellefteå kommun;1 395 000 kr;53,6 m²;1,5 rum;          LägenhetLägenhet;For Sale
+263;https://www.hemnet.se/bostad/lagenhet-fallfors-skelleftea-kommun-fallforsvagen-39-17950236;Fällforsvägen 39;Fällfors, Skellefteå kommun;1 750 000 kr;None;None;          LägenhetLägenhet;For Sale
+264;https://www.hemnet.se/bostad/villa-4rum-sunnana-skelleftea-kommun-ladstigen-5-17949577;Ladstigen 5;Sunnanå, Skellefteå kommun;2 900 000 kr;119 + 37 m²;4 rum;          VillaVilla;For Sale
+265;https://www.hemnet.se/bostad/fritidsboende-4rum-ammarnas-sorsele-kommun-myrvagen-10-17948657;Myrvägen 10;AMMARNÄS, Sorsele kommun;1 500 000 kr;72 + 18 m²;4 rum;          FritidshusFritidshus;For Sale
+266;https://www.hemnet.se/bostad/villa-7rum-dorotea-dorotea-kommun-avasjovagen-8-17948215;Avasjövägen 8;Dorotea, Dorotea kommun;4 995 000 kr;160 + 30 m²;7 rum;          VillaVilla;For Sale
+267;https://www.hemnet.se/bostad/fritidsboende-3rum-hemavan-storumans-kommun-bla-vagen-17-stuga-11-17945443;Blå vägen 17 Stuga 11;Hemavan, Storumans kommun;1 395 000 kr;34 m²;3 rum;          FritidshusFritidshus;For Sale
+268;https://www.hemnet.se/bostad/fritidsboende-3rum-varutrask-skelleftea-kommun-varutrask-212-17944689;Varuträsk 212;Varuträsk, Skellefteå kommun;1 000 000 kr;54 m²;3 rum;          FritidshusFritidshus;For Sale
+269;https://www.hemnet.se/bostad/lagenhet-3rum-umea-umea-kommun-utmarksvagen-7b-17945281;Utmarksvägen 7B;Umeå, Umeå kommun;2 495 000 kr;70 m²;3 rum;          LägenhetLägenhet;For Sale
+270;https://www.hemnet.se/bostad/radhus-5rum-boleang-umea-kommun-krakbarsvagen-19-17944804;Kråkbärsvägen 19;Böleäng, Umeå kommun;4 080 000 kr;112 m²;5 rum;          RadhusRadhus;For Sale
+271;https://www.hemnet.se/bostad/fritidsboende-3rum-gronfjall-vilhelmina-kommun-gronfjall-128-17944931;Grönfjäll 128;Grönfjäll, Vilhelmina kommun;1 200 000 kr;45 m²;3 rum;          FritidshusFritidshus;For Sale
+272;https://www.hemnet.se/bostad/lagenhet-5rum-vast-pa-stan-umea-kommun-skolgatan-16-17938897;Skolgatan 16;Väst På Stan, Umeå kommun;3 100 000 kr;102 m²;5 rum;          LägenhetLägenhet;For Sale
+273;https://www.hemnet.se/bostad/fritidsboende-3rum-holmon-umea-kommun-berguddsvagen-53-17940298;Berguddsvägen 53;Holmön, Umeå kommun;1 295 000 kr;45 m²;3 rum;          FritidshusFritidshus;For Sale
+274;https://www.hemnet.se/bostad/villa-5rum-vilhelmina-vilhelmina-kommun-tallasvagen-17-17937464;Tallåsvägen 17;Vilhelmina, Vilhelmina kommun;545 000 kr;117 + 83 m²;5 rum;          VillaVilla;For Sale
+275;https://www.hemnet.se/bostad/villa-4rum-skelleftea-skelleftea-kommun-skidstigen-26-17930637;Skidstigen 26;Skellefteå, Skellefteå kommun;2 950 000 kr;117 + 63 m²;4 rum;          VillaVilla;For Sale
+276;https://www.hemnet.se/bostad/radhus-4rum-norrmalm-lycksele-kommun-gronsaksstigen-46-17928639;Grönsaksstigen 46;Norrmalm, Lycksele kommun;425 000 kr;118 m²;4 rum;          RadhusRadhus;For Sale
+277;https://www.hemnet.se/bostad/lagenhet-3rum-alidhojd-umea-kommun-kuratorvagen-30-17922275;Kuratorvägen 30;Ålidhöjd, Umeå kommun;2 095 000 kr;78,5 m²;3 rum;          LägenhetLägenhet;For Sale
+278;https://www.hemnet.se/bostad/villa-6rum-byske-skelleftea-kommun-degerliden-8-17918716;Degerliden 8;Byske, Skellefteå kommun;450 000 kr;150 + 10 m²;6 rum;          VillaVilla;For Sale
+279;https://www.hemnet.se/bostad/fritidsboende-4rum-hemavan-storumans-kommun-varstigen-1-17918336;Vårstigen 1;Hemavan, Storumans kommun;3 295 000 kr;79 m²;4 rum;          FritidshusFritidshus;For Sale
+280;https://www.hemnet.se/bostad/fritidsboende-vilhelmina-vilhelmina-kommun-myrkulla-1-17918542;Myrkulla 1;Vilhelmina, Vilhelmina kommun;2 495 000 kr;None;None;          FritidshusFritidshus;For Sale
+281;https://www.hemnet.se/bostad/fritidsboende-klimpfjall-vilhelmina-kommun-lovberg-136-17914980;Lövberg 136;Klimpfjäll, Vilhelmina kommun;795 000 kr;None;None;          FritidshusFritidshus;For Sale
+282;https://www.hemnet.se/bostad/lagenhet-2rum-centrum-skelleftea-kommun-strandgatan-13c-17912435;Strandgatan 13C;CENTRUM, Skellefteå kommun;1 500 000 kr;50 m²;2 rum;          LägenhetLägenhet;For Sale
+283;https://www.hemnet.se/bostad/lagenhet-3rum-ost-pa-stan-umea-kommun-jarnvagsgatan-9a-17912081;Järnvägsgatan 9A;Öst på stan, Umeå kommun;2 795 000 kr;82 m²;3 rum;          LägenhetLägenhet;For Sale
+284;https://www.hemnet.se/bostad/fritidsboende-5rum-tarnaby-storumans-kommun-gammstallnaset-231-17902661;Gammställnäset 231;Tärnaby, Storumans kommun;2 895 000 kr;83 + 10 m²;5 rum;          FritidshusFritidshus;For Sale
+285;https://www.hemnet.se/bostad/lagenhet-2rum-tomtebo-umea-kommun-kalhagsvagen-29-a-17901444;Kålhagsvägen 29 A;Tomtebo, Umeå kommun;1 695 000 kr;54 m²;2 rum;          LägenhetLägenhet;For Sale
+286;https://www.hemnet.se/bostad/fritidsboende-5rum-joesjo-storumans-kommun-joesjo-118-17902450;Joesjö 118;Joesjö, Storumans kommun;750 000 kr;120 m²;5 rum;          FritidshusFritidshus;For Sale
+287;https://www.hemnet.se/bostad/villa-2rum-asen-norsjo-kommun-asen-1-17898956;Åsen 1;Åsen, Norsjö kommun;475 000 kr;64 m²;2 rum;          VillaVilla;For Sale
+288;https://www.hemnet.se/bostad/villa-7rum-umea-umea-kommun-sormjole-20-17760679;Sörmjöle 20;Umeå, Umeå kommun;1 795 000 kr;190 + 80 m²;7 rum;          VillaVilla;For Sale
+289;https://www.hemnet.se/bostad/villa-4rum-orviken-skelleftea-kommun-babordsgatan-4-17888604;Babordsgatan 4;Örviken, Skellefteå kommun;3 575 000 kr;124 + 72 m²;4 rum;          VillaVilla;For Sale
+290;https://www.hemnet.se/bostad/villa-0rum-lycksele-kommun-lunnvagen-1-17886883;Lunnvägen 1;, Lycksele kommun;1 995 000 kr;540 + 240 m²;0 rum;          VillaVilla;For Sale
+291;https://www.hemnet.se/bostad/villa-4rum-ersmark-umea-kommun-tallbacken-10d-17541035;Tallbacken 10D;Ersmark, Umeå kommun;5 500 000 kr;132,5 + 45,5 m²;4 rum;          VillaVilla;For Sale
+292;https://www.hemnet.se/bostad/lagenhet-3rum-obacka-strand-umea-kommun-hoppets-grand-22-17884532;Hoppets gränd 22;Öbacka strand, Umeå kommun;3 795 000 kr;88 m²;3 rum;          LägenhetLägenhet;For Sale
+293;https://www.hemnet.se/bostad/lagenhet-3rum-haga-umea-kommun-stenmarksvagen-2-a-17875719;Stenmarksvägen 2 A;Haga, Umeå kommun;2 495 000 kr;72 m²;3 rum;          LägenhetLägenhet;For Sale
+294;https://www.hemnet.se/bostad/villa-3rum-boliden-skelleftea-kommun-yttre-norrstrom-5-17870955;Yttre Norrström 5;Boliden, Skellefteå kommun;400 000 kr;3 rum;None;          VillaVilla;For Sale
+295;https://www.hemnet.se/bostad/villa-6rum-umea-kommun-skatenvagen-6-17871096;Skatenvägen 6;Umeå, Umeå kommun;3 900 000 kr;153 + 225 m²;6 rum;          VillaVilla;For Sale
+296;https://www.hemnet.se/bostad/villa-7rum-bygdea-robertsfors-kommun-kustlandsvagen-11-17383076;Kustlandsvägen 11;Bygdeå, Robertsfors kommun;1 695 000 kr;178 + 89 m²;7 rum;          VillaVilla;For Sale
+297;https://www.hemnet.se/bostad/villa-3rum-burtrask-skelleftea-kommun-brannkalen-47-17862475;Brännkälen 47;Burträsk, Skellefteå kommun;650 000 kr;81 + 15 m²;3 rum;          VillaVilla;For Sale
+298;https://www.hemnet.se/bostad/villa-4rum-storuman-storumans-kommun-skarvsjoby-230-17863047;Skarvsjöby 230;Storuman, Storumans kommun;495 000 kr;105 + 105 m²;4 rum;          VillaVilla;For Sale
+299;https://www.hemnet.se/bostad/fritidsboende-3rum-skarvsjoby-storumans-kommun-skarvsjoby-111-17863028;Skarvsjöby 111;Skarvsjöby, Storumans kommun;495 000 kr;65 m²;3 rum;          FritidshusFritidshus;For Sale
+300;https://www.hemnet.se/bostad/villa-2rum-holmsund-umea-kommun-jarnvagsgatan-9-17862970;Järnvägsgatan 9;Holmsund, Umeå kommun;1 200 000 kr;60 m²;2 rum;          VillaVilla;For Sale
+301;https://www.hemnet.se/bostad/fritidsboende-3rum-sormjole-umea-kommun-stenbarsvagen-1-17862765;Stenbärsvägen 1;Sörmjöle, Umeå kommun;750 000 kr;46 m²;3 rum;          FritidshusFritidshus;For Sale
+302;https://www.hemnet.se/bostad/lagenhet-3rum-teg-umea-kommun-odlarvagen-4-17861736;Odlarvägen 4;Teg, Umeå kommun;3 895 000 kr;83 m²;3 rum;          LägenhetLägenhet;For Sale
+303;https://www.hemnet.se/bostad/villa-3rum-vindeln-vindelns-kommun-vastoman-35-17855499;Västomån 35;Vindeln, Vindelns kommun;1 295 000 kr;110 + 88 m²;3 rum;          VillaVilla;For Sale
+304;https://www.hemnet.se/bostad/fritidsboende-2rum-vindelns-kommun-granaker-2-17855857;Granåker 2;Vindeln, Vindelns kommun;975 000 kr;40 m²;2 rum;          FritidshusFritidshus;For Sale
+305;https://www.hemnet.se/bostad/villa-6rum-hissjo-umea-kommun-hissjo-357-17850219;Hissjö 357;Hissjö, Umeå kommun;4 830 000 kr;187 m²;6 rum;          VillaVilla;For Sale
+306;https://www.hemnet.se/bostad/fritidsboende-3rum-borgafjall-dorotea-kommun-korpavagen-26-17848055;Korpåvägen 26;Borgafjäll, Dorotea kommun;1 800 000 kr;77 m²;3 rum;          FritidshusFritidshus;For Sale
+307;https://www.hemnet.se/bostad/villa-2rum-ragvaldstrask-skelleftea-kommun-ragvaldstrask-175-17843289;Ragvaldsträsk 175;RAGVALDSTRÄSK, Skellefteå kommun;1 000 000 kr;60 m²;2 rum;          VillaVilla;For Sale
+308;https://www.hemnet.se/bostad/villa-7rum-trehorningen-45-umea-kommun-trehorningen-45-17828715;Trehörningen 45;Trehörningen 45, Umeå kommun;3 995 000 kr;204 + 36 m²;7 rum;          VillaVilla;For Sale
+309;https://www.hemnet.se/bostad/lagenhet-4rum-hemavan-storumans-kommun-adolfs-vag-2c-17428132;ADOLFS VÄG 2C;Hemavan, Storumans kommun;3 295 000 kr;80 m²;4 rum;          LägenhetLägenhet;For Sale
+310;https://www.hemnet.se/bostad/villa-2rum-gravmark-umea-kommun-gravmark-120-17842742;Gravmark 120;Gravmark, Umeå kommun;495 000 kr;60 m²;2 rum;          VillaVilla;For Sale
+311;https://www.hemnet.se/bostad/villa-5rum-teg-umea-kommun-bokvagen-6-17840117;Bokvägen 6;Teg, Umeå kommun;4 975 000 kr;118 + 100 m²;5 rum;          VillaVilla;For Sale
+312;https://www.hemnet.se/bostad/villa-5rum-holmsund-umea-kommun-bagvagen-hus-nr-4-17834576;Bågvägen hus nr 4;Holmsund, Umeå kommun;4 595 000 kr;125 m²;5 rum;          VillaVilla;For Sale
+313;https://www.hemnet.se/bostad/fritidsboende-hemavan-tarnaby-storumans-kommun-granas-120-17833621;Granås 120;Hemavan/Tärnaby, Storumans kommun;450 000 kr;None;None;          FritidshusFritidshus;For Sale
+314;https://www.hemnet.se/bostad/lagenhet-3rum-centrum-umea-kommun-kungsgatan-63-d-17825697;Kungsgatan 63 D;Centrum, Umeå kommun;5 595 000 kr;100 m²;3 rum;          LägenhetLägenhet;For Sale
+315;https://www.hemnet.se/bostad/villa-5rum-storumans-kommun-falkvagen-21-17821720;Falkvägen 21;Storuman, Storumans kommun;295 000 kr;113 + 40 m²;5 rum;          VillaVilla;For Sale
+316;https://www.hemnet.se/bostad/villa-5rum-asele-asele-kommun-villavagen-11-17817891;Villavägen 11;Åsele, Åsele kommun;300 000 kr;100 + 111 m²;5 rum;          VillaVilla;For Sale
+317;https://www.hemnet.se/bostad/villa-6rum-bredvik-nordmalings-kommun-bredvik-109-17818267;Bredvik 109;Bredvik, Nordmalings kommun;995 000 kr;122 + 61 m²;6 rum;          VillaVilla;For Sale
+318;https://www.hemnet.se/bostad/fritidsboende-2rum-byske-skelleftea-kommun-lundfors-13-17798816;Lundfors 13;Byske, Skellefteå kommun;275 000 kr;50 + 15 m²;2 rum;          FritidshusFritidshus;For Sale
+319;https://www.hemnet.se/bostad/lagenhet-2rum-umea-kommun-kalhagsvagen-27d-17422740;Kålhagsvägen 27D;Umeå, Umeå kommun;1 695 000 kr;46 m²;2 rum;          LägenhetLägenhet;For Sale
+320;https://www.hemnet.se/bostad/villa-4rum-storuman-storumans-kommun-bla-vagen-279-17793745;Blå vägen 279;Storuman, Storumans kommun;295 000 kr;74 + 58 m²;4 rum;          VillaVilla;For Sale
+321;https://www.hemnet.se/bostad/villa-5rum-yttersjo-umea-kommun-innersjo-69-17791495;Innersjö 69;Yttersjö, Umeå kommun;5 495 000 kr;140 + 2 m²;5 rum;          VillaVilla;For Sale
+322;https://www.hemnet.se/bostad/villa-4rum-sorsele-sorsele-kommun-skolvagen-33-17789142;Skolvägen 33;Sorsele, Sorsele kommun;440 000 kr;108 + 140 m²;4 rum;          VillaVilla;For Sale
+323;https://www.hemnet.se/bostad/fritidsboende-5rum-tarnaby-storumans-kommun-grondal-556-17784216;Gröndal 556;Tärnaby, Storumans kommun;1 995 000 kr;100 m²;5 rum;          FritidshusFritidshus;For Sale
+324;https://www.hemnet.se/bostad/fritidsboende-47m2-sorsele-sorsele-kommun-tjarnvagen-18-a-och-b-17776359;Tjärnvägen 18 A och B;Sorsele, Sorsele kommun;1 kr;47 m²;None;          FritidshusFritidshus;For Sale
+325;https://www.hemnet.se/bostad/fritidsboende-ostnas-umea-kommun-ostnas-439-17768264;Ostnäs 439;Ostnäs, Umeå kommun;2 550 000 kr;None;None;          FritidshusFritidshus;For Sale
+326;https://www.hemnet.se/bostad/villa-ostnas-umea-kommun-ostnas-425-17767900;Ostnäs 425;Ostnäs, Umeå kommun;3 590 000 kr;None;None;          VillaVilla;For Sale
+327;https://www.hemnet.se/bostad/villa-5rum-stensele-storumans-kommun-bla-vagen-61-17730575;Blå vägen 61;Stensele, Storumans kommun;645 000 kr;230 + 49 m²;5 rum;          VillaVilla;For Sale
+328;https://www.hemnet.se/bostad/fritidsboende-4rum-hemavan-birke-storumans-kommun-elins-vag-12-17725695;Elins väg 12;Hemavan/Birke, Storumans kommun;2 450 000 kr;62 m²;4 rum;          FritidshusFritidshus;For Sale
+329;https://www.hemnet.se/bostad/villa-5rum-vilhelmina-vilhelmina-kommun-tallasvagen-25-17717100;Tallåsvägen 25;Vilhelmina, Vilhelmina kommun;595 000 kr;124 + 54 m²;5 rum;          VillaVilla;For Sale
+330;https://www.hemnet.se/bostad/villa-5rum-mala-kommun-hammargatan-2-17511017;Hammargatan 2;Malå, Malå kommun;325 000 kr;110 + 80 m²;5 rum;          VillaVilla;For Sale
+331;https://www.hemnet.se/bostad/fritidsboende-1rum-gardsmark-skelleftea-kommun-gardsmark-162-17691300;Gärdsmark 162;GÄRDSMARK, Skellefteå kommun;660 000 kr;60 m²;1 rum;          FritidshusFritidshus;For Sale
+332;https://www.hemnet.se/bostad/fritidsboende-3rum-borgafjall-dorotea-kommun-vid-camp-borga,-avasjovagen-17688516;Vid Camp Borga, Avasjövägen;Borgafjäll, Dorotea kommun;1 395 000 kr;34,5 m²;3 rum;          FritidshusFritidshus;For Sale
+333;https://www.hemnet.se/bostad/villa-5rum-vannas-vannas-kommun-skymningsvagen-12-17684899;Skymningsvägen 12;Vännäs, Vännäs kommun;3 296 000 kr;128 m²;5 rum;          VillaVilla;For Sale
+334;https://www.hemnet.se/bostad/lagenhet-3rum-sorbole-skelleftea-kommun-karlgardsvagen-7-17679218;Karlgårdsvägen 7;Sörböle, Skellefteå kommun;2 490 000 kr;79 m²;3 rum;          LägenhetLägenhet;For Sale
+335;https://www.hemnet.se/bostad/fritidsboende-3rum-hemavan-birke-storumans-kommun-gondolrakan-4-17643165;Gondolrakan 4;Hemavan/Birke, Storumans kommun;1 695 000 kr;69 m²;3 rum;          FritidshusFritidshus;For Sale
+336;https://www.hemnet.se/nybyggnadsprojekt/stocksjo-strand-17627060;Stöcksjö Strand;Umeå kommun;fr. 3 990 000 kr;119–125 m² + 5 m²;5 rum;          RadhusRadhus;For Sale
+337;https://www.hemnet.se/bostad/villa-6rum-nordmaling-nordmalings-kommun-kopmangatan-20-17621505;Köpmangatan 20;Nordmaling, Nordmalings kommun;1 695 000 kr;131 + 102 m²;6 rum;          VillaVilla;For Sale
+338;https://www.hemnet.se/nybyggnadsprojekt/ostra-station-17612337;Östra Station;Umeå kommun;fr. 3 195 000 kr;69–93 m²;3 rum;          LägenhetLägenhet;For Sale
+339;https://www.hemnet.se/bostad/villa-1rum-nordmaling-nordmalings-kommun-krikudden-116-17612735;Krikudden 116;Nordmaling, Nordmalings kommun;995 000 kr;25 m²;1 rum;          VillaVilla;For Sale
+340;https://www.hemnet.se/bostad/villa-8rum-umedalen-umea-kommun-symfonivagen-28-17574538;Symfonivägen 28;Umedalen, Umeå kommun;6 895 000 kr;230 m²;8 rum;          VillaVilla;For Sale
+341;https://www.hemnet.se/bostad/lagenhet-1rum-umea-kommun-jarnvagsgatan-17561318;Järnvägsgatan;UMEÅ, Umeå kommun;1 595 000 kr;30 m²;1 rum;          LägenhetLägenhet;For Sale
+342;https://www.hemnet.se/bostad/lagenhet-4rum-umea-kommun-nygatan-17560919;Nygatan;UMEÅ, Umeå kommun;3 645 000 kr;87 m²;4 rum;          LägenhetLägenhet;For Sale
+343;https://www.hemnet.se/bostad/lagenhet-3rum-umea-kommun-nygatan-17560877;Nygatan;UMEÅ, Umeå kommun;3 895 000 kr;77 m²;3 rum;          LägenhetLägenhet;For Sale
+344;https://www.hemnet.se/nybyggnadsprojekt/brf-algkronan-17561136;Brf Älgkronan;Umeå kommun;fr. 1 595 000 kr;30–87 m²;1–4 rum;          LägenhetLägenhet;For Sale
+345;https://www.hemnet.se/bostad/villa-4rum-ersmark-umea-kommun-tallbacken-10c-17540557;Tallbacken 10C;Ersmark, Umeå kommun;5 500 000 kr;132,5 + 45,5 m²;4 rum;          VillaVilla;For Sale
+346;https://www.hemnet.se/nybyggnadsprojekt/langmyran-16-brf-olof-17360821;Långmyran 16 - Brf Olof;Umeå kommun;fr. 1 460 000 kr;31 m²;1 rum;          LägenhetLägenhet;For Sale
+347;https://www.hemnet.se/bostad/lagenhet-4rum-teg-umea-kommun-odlarvagen-4a-17482856;Odlarvägen 4A;Teg, Umeå kommun;7 700 000 kr;112 m²;4 rum;          LägenhetLägenhet;For Sale
+348;https://www.hemnet.se/nybyggnadsprojekt/lav-ii-pa-tomtebo-gard-17009603;Lav II på Tomtebo gård;Umeå kommun;fr. 1 695 000 kr;46 m²;2 rum;          LägenhetLägenhet;For Sale
+349;https://www.hemnet.se/bostad/radhus-4rum-mala-mala-kommun-hantverksgatan-16-17451640;Hantverksgatan 16;Malå, Malå kommun;395 000 kr;130 + 40 m²;4 rum;          RadhusRadhus;For Sale
+350;https://www.hemnet.se/bostad/fritidsboende-3rum-tarnaby-storumans-kommun-boxfjall-525-17454210;Boxfjäll 525;Tärnaby, Storumans kommun;1 195 000 kr;45 + 10 m²;3 rum;          FritidshusFritidshus;For Sale
+351;https://www.hemnet.se/bostad/lagenhet-1rum-haga-umea-kommun-ostra-kyrkogatan-46-17385537;Östra Kyrkogatan 46;Haga, Umeå kommun;1 460 000 kr;31 m²;1 rum;          LägenhetLägenhet;For Sale
+352;https://www.hemnet.se/bostad/fritidsboende-2rum-lillsandskar-umea-kommun-lillsandskar-18-15210035;Lillsandskär 18;Lillsandskär, Umeå kommun;945 000 kr;67 m²;2 rum;          FritidshusFritidshus;For Sale
+353;https://www.hemnet.se/bostad/fritidsboende-5rum-borgafjall-dorotea-kommun-avasjo-1-690-16755320;Avasjö 1:690;Borgafjäll, Dorotea kommun;2 600 000 kr;93 m²;5 rum;          FritidshusFritidshus;For Sale
+354;https://www.hemnet.se/nybyggnadsprojekt/mariehojd-mariehojd-6-16460715;Mariehöjd 6;Mariehöjd, Umeå kommun;fr. 1 795 000 kr;68–72 m²;2–3 rum;          LägenhetLägenhet;For Sale
+355;https://www.hemnet.se/bostad/fritidsboende-kage-skelleftea-kommun-bastuholmen-42-16162460;Bastuholmen 42;Kåge, Skellefteå kommun;690 000 kr;None;None;          FritidshusFritidshus;For Sale
+356;https://www.hemnet.se/bostad/fritidsboende-kage-skelleftea-kommun-bastuholmen-16162311;Bastuholmen;Kåge, Skellefteå kommun;690 000 kr;None;None;          FritidshusFritidshus;For Sale
