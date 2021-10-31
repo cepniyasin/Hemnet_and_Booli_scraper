@@ -1,3 +1,3 @@
-/hemnet_scraper/
-/.idea/
-/venv/
+hemnet_scraper/*
+.idea/*
+venv/*
