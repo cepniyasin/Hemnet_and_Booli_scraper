@@ -1,3 +1,5 @@
+import os
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
@@ -18,33 +20,24 @@ def hemnet_parser():
             for article in articles:
                 global counter
                 counter += 1
-                # print("\nArticle:", counter)
                 link = article.find_element(By.CLASS_NAME, "listing-card").get_attribute('href')
-                # print(link)
-                # print(article.text)
                 apartment = article.find_element(By.CLASS_NAME, "listing-card__address").text.split("\n")
                 address = apartment[0]
                 location = apartment[1]
-                # print(address)
-                # print(location)
                 attributes = article.find_element(By.CLASS_NAME, "listing-card__attributes-row")
                 attribute_list = attributes.text.split("\n")
                 price = attribute_list[0]
                 area = None
                 room = None
-                if len(attribute_list) == 3:
-                    area = attribute_list[1]
-                    room = attribute_list[2]
                 if len(attribute_list) == 2:
                     area = attribute_list[1]
-                # print(price)
-                # print(area)
-                # print(room)
+                elif len(attribute_list) == 3:
+                    area = attribute_list[1]
+                    room = attribute_list[2]
 
                 property_type_list = article.find_element(By.CLASS_NAME, 'listing-card__location'
                                                      ).get_attribute("textContent").split("\n")
                 property_type = property_type_list[2]
-
                 write_csv(str(counter), link, address, location, price, area, room, property_type)
 
     except Exception as e:
@@ -68,11 +61,13 @@ def hemnet_sold_parser():
                 location = apartment[2]
                 property_type = apartment[1]
                 price_list = article.find_elements(By.CLASS_NAME, "clear-children")
+                avgift = None
                 price = price_list[1].text
-                date_of_sale = price_list[2].text
+                date_of_sale = price_list[2].text.split("\n")[0]
+
+
                 sizes = article.find_element(By.CLASS_NAME, "clear-children").text.split("\n")
                 area = sizes[0]
-                avgift = None
                 if len(sizes) > 1:
                     avgift = sizes[1]
 
@@ -153,6 +148,7 @@ def ask_slutpris():
     else:
         ask_slutpris()
 
+
 location = input("Give a location to search: ")
 
 sold = ask_slutpris()
@@ -161,7 +157,6 @@ s = Service("chromedriver.exe")
 driver = webdriver.Chrome(service=s)
 
 driver.get('https://www.hemnet.se/')
-# print(driver.title)
 driver.implicitly_wait(5)
 
 element = WebDriverWait(driver, 10).until(
@@ -218,7 +213,9 @@ while next_page:
             hemnet_sold_parser()
 
     except Exception as e:
+        csv_file.close()
         print("\nALL FINISHED - You can find the results csv file in the same directory.")
         next_page = False
         driver.quit()
 
+input("\nPress return to quit.\n\n\ncepniyasin.com")
