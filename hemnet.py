@@ -1,5 +1,3 @@
-import os
-
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
@@ -64,7 +62,6 @@ def hemnet_sold_parser():
                 avgift = None
                 price = price_list[1].text
                 date_of_sale = price_list[2].text.split("\n")[0]
-
 
                 sizes = article.find_element(By.CLASS_NAME, "clear-children").text.split("\n")
                 area = sizes[0]
@@ -153,6 +150,8 @@ location = input("Give a location to search: ")
 
 sold = ask_slutpris()
 
+start = time.time()
+
 s = Service("chromedriver.exe")
 driver = webdriver.Chrome(service=s)
 
@@ -218,4 +217,7 @@ while next_page:
         next_page = False
         driver.quit()
 
+end = time.time()
+print('\nElapsed time:', int(end - start), 'seconds')
+print("Article found:", counter)
 input("\nPress return to quit.\n\n\ncepniyasin.com")
