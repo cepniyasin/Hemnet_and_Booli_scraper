@@ -44,35 +44,52 @@ def hemnet_parser():
 
 
 def hemnet_sold_parser():
-    try:
+    # try:
         main = [WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.XPATH,
                                                  "//li[@class='sold-results__normal-hit']")))]
         for articles in main:
             for article in articles:
+                # print(article.text)
                 global counter
                 counter += 1
-                link = article.find_element(By.CLASS_NAME, "hcl-card").get_attribute('href')
-
+                link = article.find_element(By.XPATH,
+                                                 "//a[@class='sold-property-link']").get_attribute('href')
                 apartment = article.find_element(By.CLASS_NAME, "sold-property-listing__location").text.split("\n")
                 address = apartment[0]
+                print (address)
                 location = apartment[2]
                 property_type = apartment[1]
-                price_list = article.find_elements(By.CLASS_NAME, "clear-children")
+                price_list = article.find_elements(By.CLASS_NAME, "sold-property-listing__price-info")
+                x = price_list[0].text.split("\n")
                 avgift = None
-                price = price_list[1].text
-                date_of_sale = price_list[2].text.split("\n")[0]
+                land_area = None
+                price = x[0]
+                date_of_sale = x[1]
+                # print(price, date_of_sale)
 
-                sizes = article.find_element(By.CLASS_NAME, "clear-children").text.split("\n")
-                area = sizes[0]
-                if len(sizes) > 1:
-                    avgift = sizes[1]
 
-                write_csv_sold(str(counter), link, address, location, price, area, avgift, property_type, date_of_sale)
 
-    except Exception as e:
-        print(e)
-        driver.close()
+                sizes = article.find_elements(By.CLASS_NAME, "sold-property-listing__size")
+                # print (sizes[0])
+                    # article.find_element(By.CLASS_NAME, "clear-children").text.split("\n")
+                a = sizes[0].text.split("\n")
+                # print(a)
+                area = a[0]
+                # print(area)
+                if len(a) > 1:
+                    if "m²" in a[1]:
+                        land_area = a[1]
+                    if "kr/mån" in a[1]:
+                        avgift = a[1]
+
+                    # print(avgift)
+                    # print(land_area)
+                write_csv_sold(str(counter), link, address, location, price, area,land_area, avgift, property_type, date_of_sale)
+    #
+    # except Exception as e:
+    #     print(e)
+    #     driver.close()
 
 
 def start_csv():
@@ -116,6 +133,7 @@ def start_csv_sold():
                    + ';' + 'Location'
                    + ';' + 'Price'
                    + ';' + 'Area and number of rooms'
+                   + ';' + 'Land Size'
                    + ';' + 'Avgift'
                    + ';' + 'Property Type'
                    + ';' + 'Status'
@@ -123,13 +141,14 @@ def start_csv_sold():
                    + "\n")
 
 
-def write_csv_sold(id, link, address, location, price, area, avgift, property_type, date_of_sale="For Sale"):
+def write_csv_sold(id, link, address, location, price, area,land_area, avgift, property_type, date_of_sale="For Sale"):
     global csv_file
     csv_file.write(f'{id}'
                    + ';' + f'{address}'
                    + ';' + f'{location}'
                    + ';' + f'{price}'
                    + ';' + f'{area}'
+                   + ';' + f'{land_area}'
                    + ';' + f'{avgift}'
                    + ';' + f'{property_type}'
                    + ';' + f'{date_of_sale}'
