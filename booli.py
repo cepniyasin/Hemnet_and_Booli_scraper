@@ -122,7 +122,7 @@ while next_page:
         hemnet_sold_parser()
 
     except Exception as e:
-        print(e)
+        # print(e)
         csv_file.write("\nUntil page: " + f'{page}' + "\n" + "Error: "+f'{count_error}')
         csv_file.close()
         print("\nALL FINISHED - You can find the results' csv file in the same directory.")
