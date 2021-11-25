@@ -4,6 +4,7 @@ backup/
 venv/
 EXE/
 EXE2/
+chromedriver_win32_96/
 *.csv
 booli - Copy.py
 *.zip
