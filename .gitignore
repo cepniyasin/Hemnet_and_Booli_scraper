@@ -1,7 +1,10 @@
 .idea/
 __pycache__/
+backup/
 venv/
 EXE/
 EXE2/
 *.csv
 booli - Copy.py
+*.zip
+area_csv.py
